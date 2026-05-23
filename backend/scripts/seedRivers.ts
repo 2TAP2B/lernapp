@@ -27,6 +27,13 @@ const data = JSON.parse(
 ) as RiverEntry[]
 
 async function seed() {
+  // Nur seeden wenn Tabelle leer (idempotent beim Container-Neustart)
+  const existing = await db.select({ id: rivers.id }).from(rivers).limit(1)
+  if (existing.length > 0) {
+    console.log(`Rivers already seeded, skipping.`)
+    process.exit(0)
+  }
+
   console.log(`Seeding ${data.length} rivers...`)
   const now = Date.now()
 

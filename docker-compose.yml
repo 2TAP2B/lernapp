@@ -1,27 +1,31 @@
-version: "3.8"
+# Produktion – zieht Images von GHCR statt lokal zu bauen.
+# Verwendung:
+#   docker compose -f docker-compose.prod.yml pull
+#   docker compose -f docker-compose.prod.yml up -d
+#
+# GHCR_OWNER = 2tap2b (GitHub-Benutzername wird für GHCR klein geschrieben)
 
 services:
   frontend:
-    build:
-      context: ./frontend
-      dockerfile: Dockerfile
+    image: ghcr.io/2tap2b/lernapp-frontend:latest
     ports:
-      - "3000:80"
-    environment:
-      - VITE_API_URL=${VITE_API_URL:-http://localhost:3001/api}
+      - "9980:80"
     depends_on:
       - backend
     restart: unless-stopped
 
   backend:
-    build:
-      context: ./backend
-      dockerfile: Dockerfile
+    image: ghcr.io/2tap2b/lernapp-backend:latest
     ports:
-      - "3001:3001"
+      - "3333:3001"
     environment:
-      - TURSO_DATABASE_URL=${TURSO_DATABASE_URL}
-      - TURSO_AUTH_TOKEN=${TURSO_AUTH_TOKEN}
+      - DATABASE_URL=file:/app/data/lernapp.db
       - PORT=3001
-      - FRONTEND_URL=${FRONTEND_URL:-http://localhost:3000}
+      - FRONTEND_URL=${FRONTEND_URL:-http://localhost}
+    volumes:
+      - lernapp_db:/app/data
     restart: unless-stopped
+
+volumes:
+  lernapp_db:
+    driver: local
