@@ -107,11 +107,12 @@
       <div class="flex items-center justify-between text-sm font-bold">
         <span class="text-slate-500">Frage {{ quizStore.currentIndex + 1 }}</span>
         <div
-          class="flex items-center gap-1.5 px-3 py-1 rounded-full"
-          :class="timeLeft <= 5 ? 'bg-red-100 text-red-600' : 'bg-slate-100 text-slate-600'"
+          class="flex items-center gap-1.5 px-3 py-1 rounded-full transition-colors"
+          :class="timerExpired ? 'bg-slate-200 text-slate-400' : timeLeft <= 5 ? 'bg-red-100 text-red-600' : 'bg-slate-100 text-slate-600'"
         >
           <Timer class="w-4 h-4" />
-          <span>{{ timeLeft }}s</span>
+          <span v-if="!timerExpired">{{ timeLeft }}s</span>
+          <span v-else class="text-xs font-semibold">Kein Bonus</span>
         </div>
         <span class="text-indigo-600 font-extrabold">
           🔥 {{ quizStore.streakCount }}x Streak
@@ -297,6 +298,7 @@ const lastAnswer = ref<string | null>(null)
 const lastAnswerCorrect = ref(false)
 const xpGained = ref(0)
 const timeLeft = ref(15)
+const timerExpired = ref(false)
 const levelUpRef = ref<InstanceType<typeof LevelUpCelebration> | null>(null)
 const sortDragRef = ref<InstanceType<typeof SortDragList> | null>(null)
 const pendingSortOrder = ref<string[]>([])
@@ -318,16 +320,13 @@ function getChoiceClass(choice: string): string {
 
 function startTimer() {
   timeLeft.value = 15
+  timerExpired.value = false
   if (timer) clearInterval(timer)
   timer = setInterval(() => {
-    timeLeft.value--
+    if (timeLeft.value > 0) timeLeft.value--
     if (timeLeft.value <= 0) {
       clearInterval(timer!)
-      if (quizStore.currentQuestion?.isSortQuestion) {
-        submitSort() // submit whatever order they have
-      } else {
-        answer('') // auto-answer wrong for choice questions
-      }
+      timerExpired.value = true
     }
   }, 1000)
 }
@@ -360,6 +359,7 @@ function nextQuestion() {
   }
   answered.value = false
   lastAnswer.value = null
+  timerExpired.value = false
   pendingSortOrder.value = []
   quizStore.nextQuestion()
   startTimer()

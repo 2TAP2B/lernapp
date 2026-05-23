@@ -22,13 +22,23 @@
     </header>
 
     <!-- XP Bar -->
-    <div class="bg-white dark:bg-slate-800 rounded-2xl px-4 pt-4 pb-3 shadow mb-3">
-      <XpBar
-        :level="userStore.level"
-        :xp="userStore.xp"
-        :next-level-xp="userStore.nextLevelXp"
-        :progress="userStore.xpProgress"
-      />
+    <div class="bg-white dark:bg-slate-800 rounded-2xl px-4 pt-4 pb-3 shadow mb-3 flex items-center gap-2">
+      <div class="flex-1">
+        <XpBar
+          :level="userStore.level"
+          :xp="userStore.xp"
+          :next-level-xp="userStore.nextLevelXp"
+          :progress="userStore.xpProgress"
+        />
+      </div>
+      <button
+        class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors shrink-0"
+        :class="refreshing ? 'animate-spin' : ''"
+        @click="refreshXp"
+        aria-label="XP aktualisieren"
+      >
+        <RotateCcw class="w-4 h-4 text-slate-400" />
+      </button>
     </div>
 
     <!-- Badges (below level progress) -->
@@ -195,7 +205,7 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
 import { useRouter } from 'vue-router'
-import { BookOpen, Trophy, Search, ChevronRight, Award, Plus, Star, Globe, Plane, Crown, Flame, Zap, ListChecks, Settings, Menu, X } from '@lucide/vue'
+import { BookOpen, Trophy, Search, ChevronRight, Award, Plus, Star, Globe, Plane, Crown, Flame, Zap, ListChecks, Settings, Menu, X, RotateCcw } from '@lucide/vue'
 import { useUserStore } from '@/stores/userStore'
 import { useFlagStore } from '@/stores/flagStore'
 import { useRiverStore } from '@/stores/riverStore'
@@ -210,6 +220,15 @@ const riverStore = useRiverStore()
 const router = useRouter()
 const showProfiles = ref(false)
 const showMenu = ref(false)
+const refreshing = ref(false)
+
+async function refreshXp() {
+  if (refreshing.value) return
+  refreshing.value = true
+  await userStore.refreshUser()
+  await flagStore.loadProgress()
+  refreshing.value = false
+}
 
 const ALL_BADGES: Badge[] = [
   { id: 'first_learn',   title: 'Erste Schritte',  description: '1. Land gelernt',                  icon: 'Star' },

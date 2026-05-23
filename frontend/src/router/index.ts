@@ -63,6 +63,10 @@ const router = createRouter({
 router.beforeEach((to) => {
   const userStore = useUserStore()
   if (to.meta.requiresAuth && !userStore.isLoggedIn) {
+    // Store might still be initializing — check localStorage as synchronous fallback.
+    // If a saved user ID exists, the store will restore the session via App.vue's onMounted.
+    const savedId = localStorage.getItem('lernapp_current_user')
+    if (savedId) return // Let route proceed; store initializes shortly after
     return { name: 'onboarding' }
   }
   if (to.name === 'onboarding' && userStore.isLoggedIn) {

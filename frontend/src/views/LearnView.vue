@@ -20,6 +20,13 @@
           :style="{ width: (seenInSession / 10) * 100 + '%' }"
         />
       </div>
+      <button
+        class="p-2 rounded-full hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors ml-1"
+        @click="router.push({ name: 'home' })"
+        aria-label="Zur Startseite"
+      >
+        <Home class="w-5 h-5 text-slate-600 dark:text-slate-300" />
+      </button>
     </header>
 
     <!-- Loading state -->
@@ -76,11 +83,15 @@
           <ChevronLeft class="w-4 h-4" /> Zurück
         </button>
         <button
-          class="px-6 py-3 bg-indigo-600 text-white rounded-full shadow font-bold hover:bg-indigo-700 transition-all flex items-center gap-2"
+          class="px-6 py-3 bg-indigo-600 text-white rounded-full shadow font-bold transition-all flex items-center gap-2"
+          :class="cardCooldown > 0 ? 'opacity-60 cursor-not-allowed' : 'hover:bg-indigo-700'"
+          :disabled="cardCooldown > 0"
           @click="nextCard"
           aria-label="Nächste Flagge"
         >
-          Weiter <ChevronRight class="w-4 h-4" />
+          <span v-if="cardCooldown > 0">{{ cardCooldown }}s</span>
+          <span v-else>Weiter</span>
+          <ChevronRight class="w-4 h-4" />
         </button>
       </div>
     </div>
@@ -117,9 +128,9 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, onMounted, onUnmounted } from 'vue'
 import { useRouter } from 'vue-router'
-import { ChevronLeft, ChevronRight, ChevronUp, ChevronDown, WifiOff, X } from '@lucide/vue'
+import { ChevronLeft, ChevronRight, ChevronUp, ChevronDown, WifiOff, X, Home } from '@lucide/vue'
 import { useFlagStore } from '@/stores/flagStore'
 import { useSwipe } from '@/composables/useSwipe'
 import FlagCard from '@/components/flags/FlagCard.vue'
@@ -132,6 +143,17 @@ const currentIndex = ref(0)
 const seenInSession = ref(0)
 const ctaDismissed = ref(false)
 const xpPopupRef = ref<InstanceType<typeof XpPopup> | null>(null)
+const cardCooldown = ref(10)
+let cooldownTimer: ReturnType<typeof setInterval> | null = null
+
+function startCooldown() {
+  cardCooldown.value = 10
+  if (cooldownTimer) clearInterval(cooldownTimer)
+  cooldownTimer = setInterval(() => {
+    if (cardCooldown.value > 0) cardCooldown.value--
+    else clearInterval(cooldownTimer!)
+  }, 1000)
+}
 
 // Order countries: unseen first (sorted by population desc), then seen (shuffled)
 const sessionCountries = computed(() => {
@@ -151,6 +173,7 @@ const sessionCountries = computed(() => {
 const currentCountry = computed(() => sessionCountries.value[currentIndex.value])
 
 async function nextCard() {
+  if (cardCooldown.value > 0) return
   if (!currentCountry.value) return
   const { xpGained } = await flagStore.recordSeen(currentCountry.value.id)
   if (xpGained > 0) xpPopupRef.value?.show(xpGained)
@@ -160,6 +183,7 @@ async function nextCard() {
   } else {
     currentIndex.value = 0
   }
+  startCooldown()
 }
 
 function prevCard() {
@@ -177,7 +201,10 @@ onMounted(() => {
   if (flagStore.countries.length === 0) {
     flagStore.loadCountries()
   }
+  startCooldown()
 })
+
+onUnmounted(() => { if (cooldownTimer) clearInterval(cooldownTimer) })
 </script>
 
 <style scoped>
