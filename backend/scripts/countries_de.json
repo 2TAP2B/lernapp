@@ -1,0 +1,4431 @@
+{
+  "ad": {
+    "id": "ad",
+    "name_en": "Andorra",
+    "name_de": "Andorra",
+    "capital": "Andorra la Vella",
+    "region": "Europa",
+    "subregion": "Südeuropa",
+    "flag_svg": "https://flagcdn.com/ad.svg",
+    "flag_png": "https://flagcdn.com/w320/ad.png",
+    "population": 88406,
+    "languages": [
+      "Katalanisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "ae": {
+    "id": "ae",
+    "name_en": "United Arab Emirates",
+    "name_de": "Vereinigte Arabische Emirate",
+    "capital": "Abu Dhabi",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/ae.svg",
+    "flag_png": "https://flagcdn.com/w320/ae.png",
+    "population": 11294243,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "United Arab Emirates dirham (د.إ)"
+    ]
+  },
+  "af": {
+    "id": "af",
+    "name_en": "Afghanistan",
+    "name_de": "Afghanistan",
+    "capital": "Kabul",
+    "region": "Asien",
+    "subregion": "Südasien",
+    "flag_svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+    "flag_png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
+    "population": 43844000,
+    "languages": [
+      "Dari",
+      "Paschtunisch",
+      "Turkmenisch"
+    ],
+    "currencies": [
+      "Afghaner Afghani (؋)"
+    ]
+  },
+  "ag": {
+    "id": "ag",
+    "name_en": "Antigua and Barbuda",
+    "name_de": "Antigua und Barbuda",
+    "capital": "Saint John's",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/ag.svg",
+    "flag_png": "https://flagcdn.com/w320/ag.png",
+    "population": 103603,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Eastern Caribbean dollar ($)"
+    ]
+  },
+  "ai": {
+    "id": "ai",
+    "name_en": "Anguilla",
+    "name_de": "Anguilla",
+    "capital": "The Valley",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/ai.svg",
+    "flag_png": "https://flagcdn.com/w320/ai.png",
+    "population": 16010,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Eastern Caribbean dollar ($)"
+    ]
+  },
+  "al": {
+    "id": "al",
+    "name_en": "Albania",
+    "name_de": "Albanien",
+    "capital": "Tirana",
+    "region": "Europa",
+    "subregion": "Südosteuropa",
+    "flag_svg": "https://flagcdn.com/al.svg",
+    "flag_png": "https://flagcdn.com/w320/al.png",
+    "population": 2363314,
+    "languages": [
+      "Albanisch"
+    ],
+    "currencies": [
+      "Albanischer Lek (L)"
+    ]
+  },
+  "am": {
+    "id": "am",
+    "name_en": "Armenia",
+    "name_de": "Armenien",
+    "capital": "Eriwan",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/am.svg",
+    "flag_png": "https://flagcdn.com/w320/am.png",
+    "population": 3076200,
+    "languages": [
+      "Armenisch"
+    ],
+    "currencies": [
+      "Armenischer Dram (֏)"
+    ]
+  },
+  "ao": {
+    "id": "ao",
+    "name_en": "Angola",
+    "name_de": "Angola",
+    "capital": "Luanda",
+    "region": "Afrika",
+    "subregion": "Zentralafrika",
+    "flag_svg": "https://flagcdn.com/ao.svg",
+    "flag_png": "https://flagcdn.com/w320/ao.png",
+    "population": 36170961,
+    "languages": [
+      "Portugiesisch"
+    ],
+    "currencies": [
+      "Angolanischer Kwanza (Kz)"
+    ]
+  },
+  "aq": {
+    "id": "aq",
+    "name_en": "Antarktis",
+    "name_de": "Antarktis",
+    "capital": null,
+    "region": "Antarktis",
+    "subregion": null,
+    "flag_svg": "https://flagcdn.com/aq.svg",
+    "flag_png": "https://flagcdn.com/w320/aq.png",
+    "population": 1300,
+    "languages": [],
+    "currencies": []
+  },
+  "ar": {
+    "id": "ar",
+    "name_en": "Argentina",
+    "name_de": "Argentinien",
+    "capital": "Buenos Aires",
+    "region": "Amerika",
+    "subregion": "Südamerika",
+    "flag_svg": "https://flagcdn.com/ar.svg",
+    "flag_png": "https://flagcdn.com/w320/ar.png",
+    "population": 46735004,
+    "languages": [
+      "Guaraní",
+      "Spanisch"
+    ],
+    "currencies": [
+      "Argentinischer Peso ($)"
+    ]
+  },
+  "as": {
+    "id": "as",
+    "name_en": "American Samoa",
+    "name_de": "Amerikanisch-Samoa",
+    "capital": "Pago Pago",
+    "region": "Ozeanien",
+    "subregion": "Polynesien",
+    "flag_svg": "https://flagcdn.com/as.svg",
+    "flag_png": "https://flagcdn.com/w320/as.png",
+    "population": 49710,
+    "languages": [
+      "Englisch",
+      "Samoanisch"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "at": {
+    "id": "at",
+    "name_en": "Austria",
+    "name_de": "Österreich",
+    "capital": "Wien",
+    "region": "Europa",
+    "subregion": "Central Europe",
+    "flag_svg": "https://flagcdn.com/at.svg",
+    "flag_png": "https://flagcdn.com/w320/at.png",
+    "population": 9200931,
+    "languages": [
+      "Deutsch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "au": {
+    "id": "au",
+    "name_en": "Australia",
+    "name_de": "Australien",
+    "capital": "Canberra",
+    "region": "Ozeanien",
+    "subregion": "Australien und Neuseeland",
+    "flag_svg": "https://flagcdn.com/au.svg",
+    "flag_png": "https://flagcdn.com/w320/au.png",
+    "population": 27536874,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Australischer Dollar ($)"
+    ]
+  },
+  "aw": {
+    "id": "aw",
+    "name_en": "Aruba",
+    "name_de": "Aruba",
+    "capital": "Oranjestad",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/aw.svg",
+    "flag_png": "https://flagcdn.com/w320/aw.png",
+    "population": 107566,
+    "languages": [
+      "Niederländisch",
+      "Papiamento"
+    ],
+    "currencies": [
+      "Aruban florin (ƒ)"
+    ]
+  },
+  "ax": {
+    "id": "ax",
+    "name_en": "Åland Islands",
+    "name_de": "Åland",
+    "capital": "Mariehamn",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/ax.svg",
+    "flag_png": "https://flagcdn.com/w320/ax.png",
+    "population": 30654,
+    "languages": [
+      "Schwedisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "az": {
+    "id": "az",
+    "name_en": "Azerbaijan",
+    "name_de": "Aserbaidschan",
+    "capital": "Baku",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/az.svg",
+    "flag_png": "https://flagcdn.com/w320/az.png",
+    "population": 10241722,
+    "languages": [
+      "Aserbaidschanisch"
+    ],
+    "currencies": [
+      "Aserbaidschanischer Manat (₼)"
+    ]
+  },
+  "ba": {
+    "id": "ba",
+    "name_en": "Bosnia and Herzegovina",
+    "name_de": "Bosnien und Herzegowina",
+    "capital": "Sarajevo",
+    "region": "Europa",
+    "subregion": "Südosteuropa",
+    "flag_svg": "https://flagcdn.com/ba.svg",
+    "flag_png": "https://flagcdn.com/w320/ba.png",
+    "population": 3422000,
+    "languages": [
+      "Bosnisch",
+      "Kroatisch",
+      "Serbisch"
+    ],
+    "currencies": [
+      "Bosnia and Herzegovina convertible mark (KM)"
+    ]
+  },
+  "bb": {
+    "id": "bb",
+    "name_en": "Barbados",
+    "name_de": "Barbados",
+    "capital": "Bridgetown",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/bb.svg",
+    "flag_png": "https://flagcdn.com/w320/bb.png",
+    "population": 267800,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Barbadischer Dollar ($)"
+    ]
+  },
+  "bd": {
+    "id": "bd",
+    "name_en": "Bangladesh",
+    "name_de": "Bangladesch",
+    "capital": "Dhaka",
+    "region": "Asien",
+    "subregion": "Südasien",
+    "flag_svg": "https://flagcdn.com/bd.svg",
+    "flag_png": "https://flagcdn.com/w320/bd.png",
+    "population": 169828911,
+    "languages": [
+      "Bengalisch"
+    ],
+    "currencies": [
+      "Bangladeschische Taka (৳)"
+    ]
+  },
+  "be": {
+    "id": "be",
+    "name_en": "Belgium",
+    "name_de": "Belgien",
+    "capital": "Brüssel",
+    "region": "Europa",
+    "subregion": "Westeuropa",
+    "flag_svg": "https://flagcdn.com/be.svg",
+    "flag_png": "https://flagcdn.com/w320/be.png",
+    "population": 11825551,
+    "languages": [
+      "Deutsch",
+      "Französisch",
+      "Niederländisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "bf": {
+    "id": "bf",
+    "name_en": "Burkina Faso",
+    "name_de": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/bf.svg",
+    "flag_png": "https://flagcdn.com/w320/bf.png",
+    "population": 24070553,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "Westafrikanischer CFA-Franc (Fr)"
+    ]
+  },
+  "bg": {
+    "id": "bg",
+    "name_en": "Bulgaria",
+    "name_de": "Bulgarien",
+    "capital": "Sofia",
+    "region": "Europa",
+    "subregion": "Südosteuropa",
+    "flag_svg": "https://flagcdn.com/bg.svg",
+    "flag_png": "https://flagcdn.com/w320/bg.png",
+    "population": 6437360,
+    "languages": [
+      "Bulgarisch"
+    ],
+    "currencies": [
+      "Bulgarischer Lew (лв)"
+    ]
+  },
+  "bh": {
+    "id": "bh",
+    "name_en": "Bahrain",
+    "name_de": "Bahrain",
+    "capital": "Manama",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/bh.svg",
+    "flag_png": "https://flagcdn.com/w320/bh.png",
+    "population": 1594654,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "Bahrainischer Dinar (.د.ب)"
+    ]
+  },
+  "bi": {
+    "id": "bi",
+    "name_en": "Burundi",
+    "name_de": "Burundi",
+    "capital": "Gitega",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/bi.svg",
+    "flag_png": "https://flagcdn.com/w320/bi.png",
+    "population": 12332788,
+    "languages": [
+      "Französisch",
+      "Kirundi"
+    ],
+    "currencies": [
+      "Burundischer Franc (Fr)"
+    ]
+  },
+  "bj": {
+    "id": "bj",
+    "name_en": "Benin",
+    "name_de": "Benin",
+    "capital": "Porto-Novo",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/bj.svg",
+    "flag_png": "https://flagcdn.com/w320/bj.png",
+    "population": 13224860,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "Westafrikanischer CFA-Franc (Fr)"
+    ]
+  },
+  "bl": {
+    "id": "bl",
+    "name_en": "Saint Barthélemy",
+    "name_de": "Saint-Barthélemy",
+    "capital": "Gustavia",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/bl.svg",
+    "flag_png": "https://flagcdn.com/w320/bl.png",
+    "population": 10562,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "bm": {
+    "id": "bm",
+    "name_en": "Bermuda",
+    "name_de": "Bermuda",
+    "capital": "Hamilton",
+    "region": "Amerika",
+    "subregion": "Nordamerika",
+    "flag_svg": "https://flagcdn.com/bm.svg",
+    "flag_png": "https://flagcdn.com/w320/bm.png",
+    "population": 64055,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Bermudian dollar ($)"
+    ]
+  },
+  "bn": {
+    "id": "bn",
+    "name_en": "Brunei",
+    "name_de": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "region": "Asien",
+    "subregion": "Südostasien",
+    "flag_svg": "https://flagcdn.com/bn.svg",
+    "flag_png": "https://flagcdn.com/w320/bn.png",
+    "population": 455500,
+    "languages": [
+      "Malaiisch"
+    ],
+    "currencies": [
+      "Bruneischer Dollar ($)",
+      "Singapur-Dollar ($)"
+    ]
+  },
+  "bo": {
+    "id": "bo",
+    "name_en": "Bolivia",
+    "name_de": "Bolivien",
+    "capital": "Sucre",
+    "region": "Amerika",
+    "subregion": "Südamerika",
+    "flag_svg": "https://flagcdn.com/bo.svg",
+    "flag_png": "https://flagcdn.com/w320/bo.png",
+    "population": 11365333,
+    "languages": [
+      "Aymara",
+      "Guaraní",
+      "Quechua",
+      "Spanisch"
+    ],
+    "currencies": [
+      "Bolivianischer Boliviano (Bs.)"
+    ]
+  },
+  "bq": {
+    "id": "bq",
+    "name_en": "Caribbean Netherlands",
+    "name_de": "Karibische Niederlande",
+    "capital": "Kralendijk",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/bq.svg",
+    "flag_png": "https://flagcdn.com/w320/bq.png",
+    "population": 31980,
+    "languages": [
+      "Englisch",
+      "Niederländisch",
+      "Papiamento"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "br": {
+    "id": "br",
+    "name_en": "Brazil",
+    "name_de": "Brasilien",
+    "capital": "Brasília",
+    "region": "Amerika",
+    "subregion": "Südamerika",
+    "flag_svg": "https://flagcdn.com/br.svg",
+    "flag_png": "https://flagcdn.com/w320/br.png",
+    "population": 213421037,
+    "languages": [
+      "Portugiesisch"
+    ],
+    "currencies": [
+      "Brasilianischer Real (R$)"
+    ]
+  },
+  "bs": {
+    "id": "bs",
+    "name_en": "Bahamas",
+    "name_de": "Bahamas",
+    "capital": "Nassau",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/bs.svg",
+    "flag_png": "https://flagcdn.com/w320/bs.png",
+    "population": 398165,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Bahamian dollar ($)",
+      "US-Dollar ($)"
+    ]
+  },
+  "bt": {
+    "id": "bt",
+    "name_en": "Bhutan",
+    "name_de": "Bhutan",
+    "capital": "Thimphu",
+    "region": "Asien",
+    "subregion": "Südasien",
+    "flag_svg": "https://flagcdn.com/bt.svg",
+    "flag_png": "https://flagcdn.com/w320/bt.png",
+    "population": 784043,
+    "languages": [
+      "Dzongkha"
+    ],
+    "currencies": [
+      "Bhutanischer Ngultrum (Nu.)",
+      "Indische Rupie (₹)"
+    ]
+  },
+  "bv": {
+    "id": "bv",
+    "name_en": "Bouvet Island",
+    "name_de": "Bouvetinsel",
+    "capital": null,
+    "region": "Antarktis",
+    "subregion": null,
+    "flag_svg": "https://flagcdn.com/bv.svg",
+    "flag_png": "https://flagcdn.com/w320/bv.png",
+    "population": 0,
+    "languages": [
+      "Norwegisch"
+    ],
+    "currencies": []
+  },
+  "bw": {
+    "id": "bw",
+    "name_en": "Botswana",
+    "name_de": "Botswana",
+    "capital": "Gaborone",
+    "region": "Afrika",
+    "subregion": "Südafrika",
+    "flag_svg": "https://flagcdn.com/bw.svg",
+    "flag_png": "https://flagcdn.com/w320/bw.png",
+    "population": 2359609,
+    "languages": [
+      "Englisch",
+      "Tswana"
+    ],
+    "currencies": [
+      "Botswanischer Pula (P)"
+    ]
+  },
+  "by": {
+    "id": "by",
+    "name_en": "Belarus",
+    "name_de": "Weißrussland",
+    "capital": "Minsk",
+    "region": "Europa",
+    "subregion": "Osteuropa",
+    "flag_svg": "https://flagcdn.com/by.svg",
+    "flag_png": "https://flagcdn.com/w320/by.png",
+    "population": 9109280,
+    "languages": [
+      "Belarussisch",
+      "Russisch"
+    ],
+    "currencies": [
+      "Weißrussischer Rubel (Br)"
+    ]
+  },
+  "bz": {
+    "id": "bz",
+    "name_en": "Belize",
+    "name_de": "Belize",
+    "capital": "Belmopan",
+    "region": "Amerika",
+    "subregion": "Mittelamerika",
+    "flag_svg": "https://flagcdn.com/bz.svg",
+    "flag_png": "https://flagcdn.com/w320/bz.png",
+    "population": 417634,
+    "languages": [
+      "Belizean Creole",
+      "Englisch",
+      "Spanisch"
+    ],
+    "currencies": [
+      "Belizisches Dollar ($)"
+    ]
+  },
+  "ca": {
+    "id": "ca",
+    "name_en": "Canada",
+    "name_de": "Kanada",
+    "capital": "Ottawa",
+    "region": "Amerika",
+    "subregion": "Nordamerika",
+    "flag_svg": "https://flagcdn.com/ca.svg",
+    "flag_png": "https://flagcdn.com/w320/ca.png",
+    "population": 41651653,
+    "languages": [
+      "Englisch",
+      "Französisch"
+    ],
+    "currencies": [
+      "Kanadischer Dollar ($)"
+    ]
+  },
+  "cc": {
+    "id": "cc",
+    "name_en": "Cocos (Keeling) Islands",
+    "name_de": "Kokosinseln",
+    "capital": "West Island",
+    "region": "Ozeanien",
+    "subregion": "Australien und Neuseeland",
+    "flag_svg": "https://flagcdn.com/cc.svg",
+    "flag_png": "https://flagcdn.com/w320/cc.png",
+    "population": 593,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Australischer Dollar ($)"
+    ]
+  },
+  "cd": {
+    "id": "cd",
+    "name_en": "DR Congo",
+    "name_de": "Kongo (Dem. Rep.)",
+    "capital": "Kinshasa",
+    "region": "Afrika",
+    "subregion": "Zentralafrika",
+    "flag_svg": "https://flagcdn.com/cd.svg",
+    "flag_png": "https://flagcdn.com/w320/cd.png",
+    "population": 112832000,
+    "languages": [
+      "Französisch",
+      "Kikongo",
+      "Lingala",
+      "Tshiluba",
+      "Suaheli"
+    ],
+    "currencies": [
+      "Kongolesischer Franc (FC)"
+    ]
+  },
+  "cf": {
+    "id": "cf",
+    "name_en": "Central African Republic",
+    "name_de": "Zentralafrikanische Republik",
+    "capital": "Bangui",
+    "region": "Afrika",
+    "subregion": "Zentralafrika",
+    "flag_svg": "https://flagcdn.com/cf.svg",
+    "flag_png": "https://flagcdn.com/w320/cf.png",
+    "population": 6470307,
+    "languages": [
+      "Französisch",
+      "Sango"
+    ],
+    "currencies": [
+      "Zentralafrikanischer CFA-Franc (Fr)"
+    ]
+  },
+  "cg": {
+    "id": "cg",
+    "name_en": "Republic of the Congo",
+    "name_de": "Kongo",
+    "capital": "Brazzaville",
+    "region": "Afrika",
+    "subregion": "Zentralafrika",
+    "flag_svg": "https://flagcdn.com/cg.svg",
+    "flag_png": "https://flagcdn.com/w320/cg.png",
+    "population": 6142180,
+    "languages": [
+      "Französisch",
+      "Kikongo",
+      "Lingala"
+    ],
+    "currencies": [
+      "Zentralafrikanischer CFA-Franc (Fr)"
+    ]
+  },
+  "ch": {
+    "id": "ch",
+    "name_en": "Switzerland",
+    "name_de": "Schweiz",
+    "capital": "Bern",
+    "region": "Europa",
+    "subregion": "Westeuropa",
+    "flag_svg": "https://flagcdn.com/ch.svg",
+    "flag_png": "https://flagcdn.com/w320/ch.png",
+    "population": 9082848,
+    "languages": [
+      "Französisch",
+      "Swiss German",
+      "Italienisch",
+      "Rätoromanisch"
+    ],
+    "currencies": [
+      "Schweizer Franken (Fr.)"
+    ]
+  },
+  "ci": {
+    "id": "ci",
+    "name_en": "Ivory Coast",
+    "name_de": "Elfenbeinküste",
+    "capital": "Yamoussoukro",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/ci.svg",
+    "flag_png": "https://flagcdn.com/w320/ci.png",
+    "population": 31719275,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "Westafrikanischer CFA-Franc (Fr)"
+    ]
+  },
+  "ck": {
+    "id": "ck",
+    "name_en": "Cook Islands",
+    "name_de": "Cookinseln",
+    "capital": "Avarua",
+    "region": "Ozeanien",
+    "subregion": "Polynesien",
+    "flag_svg": "https://flagcdn.com/ck.svg",
+    "flag_png": "https://flagcdn.com/w320/ck.png",
+    "population": 15040,
+    "languages": [
+      "Englisch",
+      "Cook Islands Māori"
+    ],
+    "currencies": [
+      "Cook Islands dollar ($)",
+      "Neuseeländischer Dollar ($)"
+    ]
+  },
+  "cl": {
+    "id": "cl",
+    "name_en": "Chile",
+    "name_de": "Chile",
+    "capital": "Santiago de Chile",
+    "region": "Amerika",
+    "subregion": "Südamerika",
+    "flag_svg": "https://flagcdn.com/cl.svg",
+    "flag_png": "https://flagcdn.com/w320/cl.png",
+    "population": 20206953,
+    "languages": [
+      "Spanisch"
+    ],
+    "currencies": [
+      "Chilenischer Peso ($)"
+    ]
+  },
+  "cm": {
+    "id": "cm",
+    "name_en": "Cameroon",
+    "name_de": "Kamerun",
+    "capital": "Jaunde",
+    "region": "Afrika",
+    "subregion": "Zentralafrika",
+    "flag_svg": "https://flagcdn.com/cm.svg",
+    "flag_png": "https://flagcdn.com/w320/cm.png",
+    "population": 29442327,
+    "languages": [
+      "Englisch",
+      "Französisch"
+    ],
+    "currencies": [
+      "Zentralafrikanischer CFA-Franc (Fr)"
+    ]
+  },
+  "cn": {
+    "id": "cn",
+    "name_en": "China",
+    "name_de": "China",
+    "capital": "Peking",
+    "region": "Asien",
+    "subregion": "Ostasien",
+    "flag_svg": "https://flagcdn.com/cn.svg",
+    "flag_png": "https://flagcdn.com/w320/cn.png",
+    "population": 1408280000,
+    "languages": [
+      "Chinesisch"
+    ],
+    "currencies": [
+      "Chinesischer Yuan (¥)"
+    ]
+  },
+  "co": {
+    "id": "co",
+    "name_en": "Colombia",
+    "name_de": "Kolumbien",
+    "capital": "Bogotá",
+    "region": "Amerika",
+    "subregion": "Südamerika",
+    "flag_svg": "https://flagcdn.com/co.svg",
+    "flag_png": "https://flagcdn.com/w320/co.png",
+    "population": 53057212,
+    "languages": [
+      "Spanisch"
+    ],
+    "currencies": [
+      "Kolumbianischer Peso ($)"
+    ]
+  },
+  "cr": {
+    "id": "cr",
+    "name_en": "Costa Rica",
+    "name_de": "Costa Rica",
+    "capital": "San José",
+    "region": "Amerika",
+    "subregion": "Mittelamerika",
+    "flag_svg": "https://flagcdn.com/cr.svg",
+    "flag_png": "https://flagcdn.com/w320/cr.png",
+    "population": 5309625,
+    "languages": [
+      "Spanisch"
+    ],
+    "currencies": [
+      "Costa-ricanischer Colón (₡)"
+    ]
+  },
+  "cu": {
+    "id": "cu",
+    "name_en": "Cuba",
+    "name_de": "Kuba",
+    "capital": "Havanna",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/cu.svg",
+    "flag_png": "https://flagcdn.com/w320/cu.png",
+    "population": 9748007,
+    "languages": [
+      "Spanisch"
+    ],
+    "currencies": [
+      "Kubanischer konvertibler Peso ($)",
+      "Kubanischer Peso ($)"
+    ]
+  },
+  "cv": {
+    "id": "cv",
+    "name_en": "Cape Verde",
+    "name_de": "Kap Verde",
+    "capital": "Praia",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/cv.svg",
+    "flag_png": "https://flagcdn.com/w320/cv.png",
+    "population": 491233,
+    "languages": [
+      "Portugiesisch"
+    ],
+    "currencies": [
+      "Kapverdischer Escudo (Esc)"
+    ]
+  },
+  "cw": {
+    "id": "cw",
+    "name_en": "Curaçao",
+    "name_de": "Curaçao",
+    "capital": "Willemstad",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/cw.svg",
+    "flag_png": "https://flagcdn.com/w320/cw.png",
+    "population": 156115,
+    "languages": [
+      "Englisch",
+      "Niederländisch",
+      "Papiamento"
+    ],
+    "currencies": [
+      "Netherlands Antillean guilder (ƒ)"
+    ]
+  },
+  "cx": {
+    "id": "cx",
+    "name_en": "Christmas Island",
+    "name_de": "Weihnachtsinsel",
+    "capital": "Flying Fish Cove",
+    "region": "Ozeanien",
+    "subregion": "Australien und Neuseeland",
+    "flag_svg": "https://flagcdn.com/cx.svg",
+    "flag_png": "https://flagcdn.com/w320/cx.png",
+    "population": 1692,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Australischer Dollar ($)"
+    ]
+  },
+  "cy": {
+    "id": "cy",
+    "name_en": "Cyprus",
+    "name_de": "Zypern",
+    "capital": "Nikosia",
+    "region": "Europa",
+    "subregion": "Südeuropa",
+    "flag_svg": "https://flagcdn.com/cy.svg",
+    "flag_png": "https://flagcdn.com/w320/cy.png",
+    "population": 1442614,
+    "languages": [
+      "Griechisch",
+      "Türkisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "cz": {
+    "id": "cz",
+    "name_en": "Czechia",
+    "name_de": "Tschechien",
+    "capital": "Prag",
+    "region": "Europa",
+    "subregion": "Central Europe",
+    "flag_svg": "https://flagcdn.com/cz.svg",
+    "flag_png": "https://flagcdn.com/w320/cz.png",
+    "population": 10882341,
+    "languages": [
+      "Tschechisch",
+      "Slowakisch"
+    ],
+    "currencies": [
+      "Tschechische Krone (Kč)"
+    ]
+  },
+  "de": {
+    "id": "de",
+    "name_en": "Germany",
+    "name_de": "Deutschland",
+    "capital": "Berlin",
+    "region": "Europa",
+    "subregion": "Westeuropa",
+    "flag_svg": "https://flagcdn.com/de.svg",
+    "flag_png": "https://flagcdn.com/w320/de.png",
+    "population": 83491249,
+    "languages": [
+      "Deutsch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "dj": {
+    "id": "dj",
+    "name_en": "Djibouti",
+    "name_de": "Dschibuti",
+    "capital": "Dschibuti",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/dj.svg",
+    "flag_png": "https://flagcdn.com/w320/dj.png",
+    "population": 1066809,
+    "languages": [
+      "Arabisch",
+      "Französisch"
+    ],
+    "currencies": [
+      "Dschibutischer Franc (Fr)"
+    ]
+  },
+  "dk": {
+    "id": "dk",
+    "name_en": "Denmark",
+    "name_de": "Dänemark",
+    "capital": "Kopenhagen",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/dk.svg",
+    "flag_png": "https://flagcdn.com/w320/dk.png",
+    "population": 6011488,
+    "languages": [
+      "Dänisch"
+    ],
+    "currencies": [
+      "Dänische Krone (kr)"
+    ]
+  },
+  "dm": {
+    "id": "dm",
+    "name_en": "Dominica",
+    "name_de": "Dominica",
+    "capital": "Roseau",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/dm.svg",
+    "flag_png": "https://flagcdn.com/w320/dm.png",
+    "population": 67408,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Eastern Caribbean dollar ($)"
+    ]
+  },
+  "do": {
+    "id": "do",
+    "name_en": "Dominican Republic",
+    "name_de": "Dominikanische Republik",
+    "capital": "Santo Domingo",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/do.svg",
+    "flag_png": "https://flagcdn.com/w320/do.png",
+    "population": 10771504,
+    "languages": [
+      "Spanisch"
+    ],
+    "currencies": [
+      "Dominikanischer Peso ($)"
+    ]
+  },
+  "dz": {
+    "id": "dz",
+    "name_en": "Algeria",
+    "name_de": "Algerien",
+    "capital": "Algier",
+    "region": "Afrika",
+    "subregion": "Nordafrika",
+    "flag_svg": "https://flagcdn.com/dz.svg",
+    "flag_png": "https://flagcdn.com/w320/dz.png",
+    "population": 47400000,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "Algerischer Dinar (د.ج)"
+    ]
+  },
+  "ec": {
+    "id": "ec",
+    "name_en": "Ecuador",
+    "name_de": "Ecuador",
+    "capital": "Quito",
+    "region": "Amerika",
+    "subregion": "Südamerika",
+    "flag_svg": "https://flagcdn.com/ec.svg",
+    "flag_png": "https://flagcdn.com/w320/ec.png",
+    "population": 18103660,
+    "languages": [
+      "Spanisch"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "ee": {
+    "id": "ee",
+    "name_en": "Estonia",
+    "name_de": "Estland",
+    "capital": "Tallinn",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/ee.svg",
+    "flag_png": "https://flagcdn.com/w320/ee.png",
+    "population": 1369995,
+    "languages": [
+      "Estnisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "eg": {
+    "id": "eg",
+    "name_en": "Egypt",
+    "name_de": "Ägypten",
+    "capital": "Kairo",
+    "region": "Afrika",
+    "subregion": "Nordafrika",
+    "flag_svg": "https://flagcdn.com/eg.svg",
+    "flag_png": "https://flagcdn.com/w320/eg.png",
+    "population": 107271260,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "Ägyptisches Pfund (£)"
+    ]
+  },
+  "eh": {
+    "id": "eh",
+    "name_en": "Western Sahara",
+    "name_de": "Westsahara",
+    "capital": "El Aaiún",
+    "region": "Afrika",
+    "subregion": "Nordafrika",
+    "flag_svg": "https://flagcdn.com/eh.svg",
+    "flag_png": "https://flagcdn.com/w320/eh.png",
+    "population": 600904,
+    "languages": [
+      "Berber",
+      "Hassaniya",
+      "Spanisch"
+    ],
+    "currencies": [
+      "Algerischer Dinar (دج)",
+      "Marokkanischer Dirham (DH)",
+      "Mauretanische Ouguiya (UM)"
+    ]
+  },
+  "er": {
+    "id": "er",
+    "name_en": "Eritrea",
+    "name_de": "Eritrea",
+    "capital": "Asmara",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/er.svg",
+    "flag_png": "https://flagcdn.com/w320/er.png",
+    "population": 3607000,
+    "languages": [
+      "Arabisch",
+      "Englisch",
+      "Tigrinya"
+    ],
+    "currencies": [
+      "Eritreischer Nakfa (Nfk)"
+    ]
+  },
+  "es": {
+    "id": "es",
+    "name_en": "Spain",
+    "name_de": "Spanien",
+    "capital": "Madrid",
+    "region": "Europa",
+    "subregion": "Südeuropa",
+    "flag_svg": "https://flagcdn.com/es.svg",
+    "flag_png": "https://flagcdn.com/w320/es.png",
+    "population": 49315949,
+    "languages": [
+      "Spanisch",
+      "Katalanisch",
+      "Baskisch",
+      "Galizisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "et": {
+    "id": "et",
+    "name_en": "Ethiopia",
+    "name_de": "Äthiopien",
+    "capital": "Addis Abeba",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/et.svg",
+    "flag_png": "https://flagcdn.com/w320/et.png",
+    "population": 111652998,
+    "languages": [
+      "Amharisch"
+    ],
+    "currencies": [
+      "Äthiopischer Birr (Br)"
+    ]
+  },
+  "fi": {
+    "id": "fi",
+    "name_en": "Finland",
+    "name_de": "Finnland",
+    "capital": "Helsinki",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/fi.svg",
+    "flag_png": "https://flagcdn.com/w320/fi.png",
+    "population": 5650325,
+    "languages": [
+      "Finnisch",
+      "Schwedisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "fj": {
+    "id": "fj",
+    "name_en": "Fiji",
+    "name_de": "Fidschi",
+    "capital": "Suva",
+    "region": "Ozeanien",
+    "subregion": "Melanesien",
+    "flag_svg": "https://flagcdn.com/fj.svg",
+    "flag_png": "https://flagcdn.com/w320/fj.png",
+    "population": 900869,
+    "languages": [
+      "Englisch",
+      "Fidschianisch",
+      "Fiji Hindi"
+    ],
+    "currencies": [
+      "Fidschianischer Dollar ($)"
+    ]
+  },
+  "fk": {
+    "id": "fk",
+    "name_en": "Falkland Islands",
+    "name_de": "Falklandinseln",
+    "capital": "Stanley",
+    "region": "Amerika",
+    "subregion": "Südamerika",
+    "flag_svg": "https://flagcdn.com/fk.svg",
+    "flag_png": "https://flagcdn.com/w320/fk.png",
+    "population": 3662,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Falkland Islands pound (£)"
+    ]
+  },
+  "fm": {
+    "id": "fm",
+    "name_en": "Micronesia",
+    "name_de": "Mikronesien",
+    "capital": "Palikir",
+    "region": "Ozeanien",
+    "subregion": "Mikronesien",
+    "flag_svg": "https://flagcdn.com/fm.svg",
+    "flag_png": "https://flagcdn.com/w320/fm.png",
+    "population": 105564,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "fo": {
+    "id": "fo",
+    "name_en": "Faroe Islands",
+    "name_de": "Färöer-Inseln",
+    "capital": "Tórshavn",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/fo.svg",
+    "flag_png": "https://flagcdn.com/w320/fo.png",
+    "population": 54885,
+    "languages": [
+      "Dänisch",
+      "Färöisch"
+    ],
+    "currencies": [
+      "Dänische Krone (kr)",
+      "Faroese króna (kr)"
+    ]
+  },
+  "fr": {
+    "id": "fr",
+    "name_en": "France",
+    "name_de": "Frankreich",
+    "capital": "Paris",
+    "region": "Europa",
+    "subregion": "Westeuropa",
+    "flag_svg": "https://flagcdn.com/fr.svg",
+    "flag_png": "https://flagcdn.com/w320/fr.png",
+    "population": 66351959,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "ga": {
+    "id": "ga",
+    "name_en": "Gabon",
+    "name_de": "Gabun",
+    "capital": "Libreville",
+    "region": "Afrika",
+    "subregion": "Zentralafrika",
+    "flag_svg": "https://flagcdn.com/ga.svg",
+    "flag_png": "https://flagcdn.com/w320/ga.png",
+    "population": 2469296,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "Zentralafrikanischer CFA-Franc (Fr)"
+    ]
+  },
+  "gb": {
+    "id": "gb",
+    "name_en": "United Kingdom",
+    "name_de": "Vereinigtes Königreich",
+    "capital": "London",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/gb.svg",
+    "flag_png": "https://flagcdn.com/w320/gb.png",
+    "population": 69281437,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "British pound (£)"
+    ]
+  },
+  "gd": {
+    "id": "gd",
+    "name_en": "Grenada",
+    "name_de": "Grenada",
+    "capital": "St. George's",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/gd.svg",
+    "flag_png": "https://flagcdn.com/w320/gd.png",
+    "population": 109021,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Eastern Caribbean dollar ($)"
+    ]
+  },
+  "ge": {
+    "id": "ge",
+    "name_en": "Georgia",
+    "name_de": "Georgien",
+    "capital": "Tiflis",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/ge.svg",
+    "flag_png": "https://flagcdn.com/w320/ge.png",
+    "population": 4000921,
+    "languages": [
+      "Georgisch"
+    ],
+    "currencies": [
+      "lari (₾)"
+    ]
+  },
+  "gf": {
+    "id": "gf",
+    "name_en": "French Guiana",
+    "name_de": "Französisch-Guayana",
+    "capital": "Cayenne",
+    "region": "Amerika",
+    "subregion": "Südamerika",
+    "flag_svg": "https://flagcdn.com/gf.svg",
+    "flag_png": "https://flagcdn.com/w320/gf.png",
+    "population": 292354,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "gg": {
+    "id": "gg",
+    "name_en": "Guernsey",
+    "name_de": "Guernsey",
+    "capital": "St. Peter Port",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/gg.svg",
+    "flag_png": "https://flagcdn.com/w320/gg.png",
+    "population": 64781,
+    "languages": [
+      "Englisch",
+      "Französisch",
+      "Guernésiais"
+    ],
+    "currencies": [
+      "British pound (£)",
+      "Guernsey pound (£)"
+    ]
+  },
+  "gh": {
+    "id": "gh",
+    "name_en": "Ghana",
+    "name_de": "Ghana",
+    "capital": "Akkra",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/gh.svg",
+    "flag_png": "https://flagcdn.com/w320/gh.png",
+    "population": 33742380,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Ghanaischer Cedi (₵)"
+    ]
+  },
+  "gi": {
+    "id": "gi",
+    "name_en": "Gibraltar",
+    "name_de": "Gibraltar",
+    "capital": "Gibraltar",
+    "region": "Europa",
+    "subregion": "Südeuropa",
+    "flag_svg": "https://flagcdn.com/gi.svg",
+    "flag_png": "https://flagcdn.com/w320/gi.png",
+    "population": 38000,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Gibraltar pound (£)"
+    ]
+  },
+  "gl": {
+    "id": "gl",
+    "name_en": "Greenland",
+    "name_de": "Grönland",
+    "capital": "Nuuk",
+    "region": "Amerika",
+    "subregion": "Nordamerika",
+    "flag_svg": "https://flagcdn.com/gl.svg",
+    "flag_png": "https://flagcdn.com/w320/gl.png",
+    "population": 56542,
+    "languages": [
+      "Greenlandic"
+    ],
+    "currencies": [
+      "krone (kr.)"
+    ]
+  },
+  "gm": {
+    "id": "gm",
+    "name_en": "Gambia",
+    "name_de": "Gambia",
+    "capital": "Banjul",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/gm.svg",
+    "flag_png": "https://flagcdn.com/w320/gm.png",
+    "population": 2422712,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "dalasi (D)"
+    ]
+  },
+  "gn": {
+    "id": "gn",
+    "name_en": "Guinea",
+    "name_de": "Guinea",
+    "capital": "Conakry",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/gn.svg",
+    "flag_png": "https://flagcdn.com/w320/gn.png",
+    "population": 14363931,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "Guineischer Franc (Fr)"
+    ]
+  },
+  "gp": {
+    "id": "gp",
+    "name_en": "Guadeloupe",
+    "name_de": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/gp.svg",
+    "flag_png": "https://flagcdn.com/w320/gp.png",
+    "population": 378561,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "gq": {
+    "id": "gq",
+    "name_en": "Equatorial Guinea",
+    "name_de": "Äquatorialguinea",
+    "capital": "Ciudad de la Paz",
+    "region": "Afrika",
+    "subregion": "Zentralafrika",
+    "flag_svg": "https://flagcdn.com/gq.svg",
+    "flag_png": "https://flagcdn.com/w320/gq.png",
+    "population": 1668768,
+    "languages": [
+      "Französisch",
+      "Portugiesisch",
+      "Spanisch"
+    ],
+    "currencies": [
+      "Zentralafrikanischer CFA-Franc (Fr)"
+    ]
+  },
+  "gr": {
+    "id": "gr",
+    "name_en": "Greece",
+    "name_de": "Griechenland",
+    "capital": "Athen",
+    "region": "Europa",
+    "subregion": "Südeuropa",
+    "flag_svg": "https://flagcdn.com/gr.svg",
+    "flag_png": "https://flagcdn.com/w320/gr.png",
+    "population": 10400720,
+    "languages": [
+      "Griechisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "gs": {
+    "id": "gs",
+    "name_en": "South Georgia",
+    "name_de": "Südgeorgien und die Südlichen Sandwichinseln",
+    "capital": "King Edward Point",
+    "region": "Antarktis",
+    "subregion": null,
+    "flag_svg": "https://flagcdn.com/gs.svg",
+    "flag_png": "https://flagcdn.com/w320/gs.png",
+    "population": 0,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "British pound (£)"
+    ]
+  },
+  "gt": {
+    "id": "gt",
+    "name_en": "Guatemala",
+    "name_de": "Guatemala",
+    "capital": "Guatemala-Stadt",
+    "region": "Amerika",
+    "subregion": "Mittelamerika",
+    "flag_svg": "https://flagcdn.com/gt.svg",
+    "flag_png": "https://flagcdn.com/w320/gt.png",
+    "population": 18079810,
+    "languages": [
+      "Spanisch"
+    ],
+    "currencies": [
+      "Guatemaltekischer Quetzal (Q)"
+    ]
+  },
+  "gu": {
+    "id": "gu",
+    "name_en": "Guam",
+    "name_de": "Guam",
+    "capital": "Hagåtña",
+    "region": "Ozeanien",
+    "subregion": "Mikronesien",
+    "flag_svg": "https://flagcdn.com/gu.svg",
+    "flag_png": "https://flagcdn.com/w320/gu.png",
+    "population": 153836,
+    "languages": [
+      "Chamorro",
+      "Englisch",
+      "Spanisch"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "gw": {
+    "id": "gw",
+    "name_en": "Guinea-Bissau",
+    "name_de": "Guinea-Bissau",
+    "capital": "Bissau",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/gw.svg",
+    "flag_png": "https://flagcdn.com/w320/gw.png",
+    "population": 1781308,
+    "languages": [
+      "Portugiesisch",
+      "Upper Guinea Creole"
+    ],
+    "currencies": [
+      "Westafrikanischer CFA-Franc (Fr)"
+    ]
+  },
+  "gy": {
+    "id": "gy",
+    "name_en": "Guyana",
+    "name_de": "Guyana",
+    "capital": "Georgetown",
+    "region": "Amerika",
+    "subregion": "Südamerika",
+    "flag_svg": "https://flagcdn.com/gy.svg",
+    "flag_png": "https://flagcdn.com/w320/gy.png",
+    "population": 772975,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Guyanese dollar ($)"
+    ]
+  },
+  "hk": {
+    "id": "hk",
+    "name_en": "Hong Kong",
+    "name_de": "Hongkong",
+    "capital": "City of Victoria",
+    "region": "Asien",
+    "subregion": "Ostasien",
+    "flag_svg": "https://flagcdn.com/hk.svg",
+    "flag_png": "https://flagcdn.com/w320/hk.png",
+    "population": 7527500,
+    "languages": [
+      "Englisch",
+      "Chinesisch"
+    ],
+    "currencies": [
+      "Hongkong-Dollar ($)"
+    ]
+  },
+  "hm": {
+    "id": "hm",
+    "name_en": "Heard Island and McDonald Islands",
+    "name_de": "Heard und die McDonaldinseln",
+    "capital": null,
+    "region": "Antarktis",
+    "subregion": null,
+    "flag_svg": "https://flagcdn.com/hm.svg",
+    "flag_png": "https://flagcdn.com/w320/hm.png",
+    "population": 0,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": []
+  },
+  "hn": {
+    "id": "hn",
+    "name_en": "Honduras",
+    "name_de": "Honduras",
+    "capital": "Tegucigalpa",
+    "region": "Amerika",
+    "subregion": "Mittelamerika",
+    "flag_svg": "https://flagcdn.com/hn.svg",
+    "flag_png": "https://flagcdn.com/w320/hn.png",
+    "population": 9892632,
+    "languages": [
+      "Spanisch"
+    ],
+    "currencies": [
+      "Honduranische Lempira (L)"
+    ]
+  },
+  "hr": {
+    "id": "hr",
+    "name_en": "Croatia",
+    "name_de": "Kroatien",
+    "capital": "Zagreb",
+    "region": "Europa",
+    "subregion": "Südosteuropa",
+    "flag_svg": "https://flagcdn.com/hr.svg",
+    "flag_png": "https://flagcdn.com/w320/hr.png",
+    "population": 3866233,
+    "languages": [
+      "Kroatisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "ht": {
+    "id": "ht",
+    "name_en": "Haiti",
+    "name_de": "Haiti",
+    "capital": "Port-au-Prince",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/ht.svg",
+    "flag_png": "https://flagcdn.com/w320/ht.png",
+    "population": 11867032,
+    "languages": [
+      "Französisch",
+      "Haitianisches Kreolisch"
+    ],
+    "currencies": [
+      "Haitianische Gourde (G)"
+    ]
+  },
+  "hu": {
+    "id": "hu",
+    "name_en": "Hungary",
+    "name_de": "Ungarn",
+    "capital": "Budapest",
+    "region": "Europa",
+    "subregion": "Central Europe",
+    "flag_svg": "https://flagcdn.com/hu.svg",
+    "flag_png": "https://flagcdn.com/w320/hu.png",
+    "population": 9539502,
+    "languages": [
+      "Ungarisch"
+    ],
+    "currencies": [
+      "Ungarischer Forint (Ft)"
+    ]
+  },
+  "id": {
+    "id": "id",
+    "name_en": "Indonesia",
+    "name_de": "Indonesien",
+    "capital": "Jakarta",
+    "region": "Asien",
+    "subregion": "Südostasien",
+    "flag_svg": "https://flagcdn.com/id.svg",
+    "flag_png": "https://flagcdn.com/w320/id.png",
+    "population": 284438782,
+    "languages": [
+      "Indonesisch"
+    ],
+    "currencies": [
+      "Indonesische Rupiah (Rp)"
+    ]
+  },
+  "ie": {
+    "id": "ie",
+    "name_en": "Ireland",
+    "name_de": "Irland",
+    "capital": "Dublin",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/ie.svg",
+    "flag_png": "https://flagcdn.com/w320/ie.png",
+    "population": 5458600,
+    "languages": [
+      "Englisch",
+      "Irisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "il": {
+    "id": "il",
+    "name_en": "Israel",
+    "name_de": "Israel",
+    "capital": "Jerusalem",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/il.svg",
+    "flag_png": "https://flagcdn.com/w320/il.png",
+    "population": 10134800,
+    "languages": [
+      "Arabisch",
+      "Hebräisch"
+    ],
+    "currencies": [
+      "Israelischer Neuer Schekel (₪)"
+    ]
+  },
+  "im": {
+    "id": "im",
+    "name_en": "Isle of Man",
+    "name_de": "Insel Man",
+    "capital": "Douglas",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/im.svg",
+    "flag_png": "https://flagcdn.com/w320/im.png",
+    "population": 84530,
+    "languages": [
+      "Englisch",
+      "Manx"
+    ],
+    "currencies": [
+      "British pound (£)",
+      "Manx pound (£)"
+    ]
+  },
+  "in": {
+    "id": "in",
+    "name_en": "India",
+    "name_de": "Indien",
+    "capital": "Neu-Delhi",
+    "region": "Asien",
+    "subregion": "Südasien",
+    "flag_svg": "https://flagcdn.com/in.svg",
+    "flag_png": "https://flagcdn.com/w320/in.png",
+    "population": 1417492000,
+    "languages": [
+      "Englisch",
+      "Hindi",
+      "Tamilisch"
+    ],
+    "currencies": [
+      "Indische Rupie (₹)"
+    ]
+  },
+  "io": {
+    "id": "io",
+    "name_en": "British Indian Ocean Territory",
+    "name_de": "Britisches Territorium im Indischen Ozean",
+    "capital": "Diego Garcia",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/io.svg",
+    "flag_png": "https://flagcdn.com/w320/io.png",
+    "population": 0,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "iq": {
+    "id": "iq",
+    "name_en": "Iraq",
+    "name_de": "Irak",
+    "capital": "Bagdad",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/iq.svg",
+    "flag_png": "https://flagcdn.com/w320/iq.png",
+    "population": 46118793,
+    "languages": [
+      "Arabisch",
+      "Aramaic",
+      "Sorani"
+    ],
+    "currencies": [
+      "Irakischer Dinar (ع.د)"
+    ]
+  },
+  "ir": {
+    "id": "ir",
+    "name_en": "Iran",
+    "name_de": "Iran",
+    "capital": "Teheran",
+    "region": "Asien",
+    "subregion": "Südasien",
+    "flag_svg": "https://flagcdn.com/ir.svg",
+    "flag_png": "https://flagcdn.com/w320/ir.png",
+    "population": 85961000,
+    "languages": [
+      "Persian (Farsi)"
+    ],
+    "currencies": [
+      "Iranischer Rial (﷼)"
+    ]
+  },
+  "is": {
+    "id": "is",
+    "name_en": "Iceland",
+    "name_de": "Island",
+    "capital": "Reykjavík",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/is.svg",
+    "flag_png": "https://flagcdn.com/w320/is.png",
+    "population": 391810,
+    "languages": [
+      "Isländisch"
+    ],
+    "currencies": [
+      "Isländische Krone (kr)"
+    ]
+  },
+  "it": {
+    "id": "it",
+    "name_en": "Italy",
+    "name_de": "Italien",
+    "capital": "Rom",
+    "region": "Europa",
+    "subregion": "Südeuropa",
+    "flag_svg": "https://flagcdn.com/it.svg",
+    "flag_png": "https://flagcdn.com/w320/it.png",
+    "population": 58927633,
+    "languages": [
+      "Italienisch",
+      "Katalanisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "je": {
+    "id": "je",
+    "name_en": "Jersey",
+    "name_de": "Jersey",
+    "capital": "Saint Helier",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/je.svg",
+    "flag_png": "https://flagcdn.com/w320/je.png",
+    "population": 103267,
+    "languages": [
+      "Englisch",
+      "Französisch",
+      "Jèrriais"
+    ],
+    "currencies": [
+      "British pound (£)",
+      "Jersey pound (£)"
+    ]
+  },
+  "jm": {
+    "id": "jm",
+    "name_en": "Jamaica",
+    "name_de": "Jamaika",
+    "capital": "Kingston",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/jm.svg",
+    "flag_png": "https://flagcdn.com/w320/jm.png",
+    "population": 2825544,
+    "languages": [
+      "Englisch",
+      "Jamaican Patois"
+    ],
+    "currencies": [
+      "Jamaikanischer Dollar ($)"
+    ]
+  },
+  "jo": {
+    "id": "jo",
+    "name_en": "Jordan",
+    "name_de": "Jordanien",
+    "capital": "Amman",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/jo.svg",
+    "flag_png": "https://flagcdn.com/w320/jo.png",
+    "population": 11734000,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "Jordanischer Dinar (د.ا)"
+    ]
+  },
+  "jp": {
+    "id": "jp",
+    "name_en": "Japan",
+    "name_de": "Japan",
+    "capital": "Tokio",
+    "region": "Asien",
+    "subregion": "Ostasien",
+    "flag_svg": "https://flagcdn.com/jp.svg",
+    "flag_png": "https://flagcdn.com/w320/jp.png",
+    "population": 123210000,
+    "languages": [
+      "Japanisch"
+    ],
+    "currencies": [
+      "Japanischer Yen (¥)"
+    ]
+  },
+  "ke": {
+    "id": "ke",
+    "name_en": "Kenya",
+    "name_de": "Kenia",
+    "capital": "Nairobi",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/ke.svg",
+    "flag_png": "https://flagcdn.com/w320/ke.png",
+    "population": 53330978,
+    "languages": [
+      "Englisch",
+      "Suaheli"
+    ],
+    "currencies": [
+      "Kenianischer Schilling (Sh)"
+    ]
+  },
+  "kg": {
+    "id": "kg",
+    "name_en": "Kyrgyzstan",
+    "name_de": "Kirgisistan",
+    "capital": "Bischkek",
+    "region": "Asien",
+    "subregion": "Zentralasien",
+    "flag_svg": "https://flagcdn.com/kg.svg",
+    "flag_png": "https://flagcdn.com/w320/kg.png",
+    "population": 7281800,
+    "languages": [
+      "Kirgisisch",
+      "Russisch"
+    ],
+    "currencies": [
+      "Kyrgyzstani som (с)"
+    ]
+  },
+  "kh": {
+    "id": "kh",
+    "name_en": "Cambodia",
+    "name_de": "Kambodscha",
+    "capital": "Phnom Penh",
+    "region": "Asien",
+    "subregion": "Südostasien",
+    "flag_svg": "https://flagcdn.com/kh.svg",
+    "flag_png": "https://flagcdn.com/w320/kh.png",
+    "population": 17577760,
+    "languages": [
+      "Khmer"
+    ],
+    "currencies": [
+      "Kambodschanischer Riel (៛)",
+      "US-Dollar ($)"
+    ]
+  },
+  "ki": {
+    "id": "ki",
+    "name_en": "Kiribati",
+    "name_de": "Kiribati",
+    "capital": "South Tarawa",
+    "region": "Ozeanien",
+    "subregion": "Mikronesien",
+    "flag_svg": "https://flagcdn.com/ki.svg",
+    "flag_png": "https://flagcdn.com/w320/ki.png",
+    "population": 120740,
+    "languages": [
+      "Englisch",
+      "Gilbertese"
+    ],
+    "currencies": [
+      "Australischer Dollar ($)",
+      "Kiribati dollar ($)"
+    ]
+  },
+  "km": {
+    "id": "km",
+    "name_en": "Comoros",
+    "name_de": "Komoren",
+    "capital": "Moroni",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/km.svg",
+    "flag_png": "https://flagcdn.com/w320/km.png",
+    "population": 919901,
+    "languages": [
+      "Arabisch",
+      "Französisch",
+      "Comorian"
+    ],
+    "currencies": [
+      "Komorische Franc (Fr)"
+    ]
+  },
+  "kn": {
+    "id": "kn",
+    "name_en": "Saint Kitts and Nevis",
+    "name_de": "St. Kitts und Nevis",
+    "capital": "Basseterre",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/kn.svg",
+    "flag_png": "https://flagcdn.com/w320/kn.png",
+    "population": 51320,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Eastern Caribbean dollar ($)"
+    ]
+  },
+  "kp": {
+    "id": "kp",
+    "name_en": "North Korea",
+    "name_de": "Nordkorea",
+    "capital": "Pjöngjang",
+    "region": "Asien",
+    "subregion": "Ostasien",
+    "flag_svg": "https://flagcdn.com/kp.svg",
+    "flag_png": "https://flagcdn.com/w320/kp.png",
+    "population": 25950000,
+    "languages": [
+      "Koreanisch"
+    ],
+    "currencies": [
+      "Nordkoreanischer Won (₩)"
+    ]
+  },
+  "kr": {
+    "id": "kr",
+    "name_en": "South Korea",
+    "name_de": "Südkorea",
+    "capital": "Seoul",
+    "region": "Asien",
+    "subregion": "Ostasien",
+    "flag_svg": "https://flagcdn.com/kr.svg",
+    "flag_png": "https://flagcdn.com/w320/kr.png",
+    "population": 51159889,
+    "languages": [
+      "Koreanisch"
+    ],
+    "currencies": [
+      "Südkoreanischer Won (₩)"
+    ]
+  },
+  "kw": {
+    "id": "kw",
+    "name_en": "Kuwait",
+    "name_de": "Kuwait",
+    "capital": "Kuwait-Stadt",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/kw.svg",
+    "flag_png": "https://flagcdn.com/w320/kw.png",
+    "population": 4881254,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "Kuwaitischer Dinar (د.ك)"
+    ]
+  },
+  "ky": {
+    "id": "ky",
+    "name_en": "Cayman Islands",
+    "name_de": "Kaimaninseln",
+    "capital": "George Town",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/ky.svg",
+    "flag_png": "https://flagcdn.com/w320/ky.png",
+    "population": 84738,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Cayman Islands dollar ($)"
+    ]
+  },
+  "kz": {
+    "id": "kz",
+    "name_en": "Kazakhstan",
+    "name_de": "Kasachstan",
+    "capital": "Astana",
+    "region": "Asien",
+    "subregion": "Zentralasien",
+    "flag_svg": "https://flagcdn.com/kz.svg",
+    "flag_png": "https://flagcdn.com/w320/kz.png",
+    "population": 20426568,
+    "languages": [
+      "Kasachisch",
+      "Russisch"
+    ],
+    "currencies": [
+      "Kasachischer Tenge (₸)"
+    ]
+  },
+  "la": {
+    "id": "la",
+    "name_en": "Laos",
+    "name_de": "Laos",
+    "capital": "Vientiane",
+    "region": "Asien",
+    "subregion": "Südostasien",
+    "flag_svg": "https://flagcdn.com/la.svg",
+    "flag_png": "https://flagcdn.com/w320/la.png",
+    "population": 7647000,
+    "languages": [
+      "Laotisch"
+    ],
+    "currencies": [
+      "Lao kip (₭)"
+    ]
+  },
+  "lb": {
+    "id": "lb",
+    "name_en": "Lebanon",
+    "name_de": "Libanon",
+    "capital": "Beirut",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/lb.svg",
+    "flag_png": "https://flagcdn.com/w320/lb.png",
+    "population": 5490000,
+    "languages": [
+      "Arabisch",
+      "Französisch"
+    ],
+    "currencies": [
+      "Libanesisches Pfund (ل.ل)"
+    ]
+  },
+  "lc": {
+    "id": "lc",
+    "name_en": "Saint Lucia",
+    "name_de": "St. Lucia",
+    "capital": "Castries",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/lc.svg",
+    "flag_png": "https://flagcdn.com/w320/lc.png",
+    "population": 184100,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Eastern Caribbean dollar ($)"
+    ]
+  },
+  "li": {
+    "id": "li",
+    "name_en": "Liechtenstein",
+    "name_de": "Liechtenstein",
+    "capital": "Vaduz",
+    "region": "Europa",
+    "subregion": "Westeuropa",
+    "flag_svg": "https://flagcdn.com/li.svg",
+    "flag_png": "https://flagcdn.com/w320/li.png",
+    "population": 40900,
+    "languages": [
+      "Deutsch"
+    ],
+    "currencies": [
+      "Schweizer Franken (Fr)"
+    ]
+  },
+  "lk": {
+    "id": "lk",
+    "name_en": "Sri Lanka",
+    "name_de": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "region": "Asien",
+    "subregion": "Südasien",
+    "flag_svg": "https://flagcdn.com/lk.svg",
+    "flag_png": "https://flagcdn.com/w320/lk.png",
+    "population": 21763170,
+    "languages": [
+      "Singhalesisch",
+      "Tamilisch"
+    ],
+    "currencies": [
+      "Sri-lankische Rupie (Rs  රු)"
+    ]
+  },
+  "lr": {
+    "id": "lr",
+    "name_en": "Liberia",
+    "name_de": "Liberia",
+    "capital": "Monrovia",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/lr.svg",
+    "flag_png": "https://flagcdn.com/w320/lr.png",
+    "population": 5248621,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Liberianischer Dollar ($)"
+    ]
+  },
+  "ls": {
+    "id": "ls",
+    "name_en": "Lesotho",
+    "name_de": "Lesotho",
+    "capital": "Maseru",
+    "region": "Afrika",
+    "subregion": "Südafrika",
+    "flag_svg": "https://flagcdn.com/ls.svg",
+    "flag_png": "https://flagcdn.com/w320/ls.png",
+    "population": 2116427,
+    "languages": [
+      "Englisch",
+      "Sotho"
+    ],
+    "currencies": [
+      "Lesothischer Loti (L)",
+      "Südafrikanischer Rand (R)"
+    ]
+  },
+  "lt": {
+    "id": "lt",
+    "name_en": "Lithuania",
+    "name_de": "Litauen",
+    "capital": "Wilna",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/lt.svg",
+    "flag_png": "https://flagcdn.com/w320/lt.png",
+    "population": 2894886,
+    "languages": [
+      "Litauisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "lu": {
+    "id": "lu",
+    "name_en": "Luxembourg",
+    "name_de": "Luxemburg",
+    "capital": "Luxemburg",
+    "region": "Europa",
+    "subregion": "Westeuropa",
+    "flag_svg": "https://flagcdn.com/lu.svg",
+    "flag_png": "https://flagcdn.com/w320/lu.png",
+    "population": 681973,
+    "languages": [
+      "Deutsch",
+      "Französisch",
+      "Luxemburgisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "lv": {
+    "id": "lv",
+    "name_en": "Latvia",
+    "name_de": "Lettland",
+    "capital": "Riga",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/lv.svg",
+    "flag_png": "https://flagcdn.com/w320/lv.png",
+    "population": 1829000,
+    "languages": [
+      "Lettisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "ly": {
+    "id": "ly",
+    "name_en": "Libya",
+    "name_de": "Libyen",
+    "capital": "Tripolis",
+    "region": "Afrika",
+    "subregion": "Nordafrika",
+    "flag_svg": "https://flagcdn.com/ly.svg",
+    "flag_png": "https://flagcdn.com/w320/ly.png",
+    "population": 7459000,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "Libyscher Dinar (ل.د)"
+    ]
+  },
+  "ma": {
+    "id": "ma",
+    "name_en": "Morocco",
+    "name_de": "Marokko",
+    "capital": "Rabat",
+    "region": "Afrika",
+    "subregion": "Nordafrika",
+    "flag_svg": "https://flagcdn.com/ma.svg",
+    "flag_png": "https://flagcdn.com/w320/ma.png",
+    "population": 36828330,
+    "languages": [
+      "Arabisch",
+      "Berber"
+    ],
+    "currencies": [
+      "Marokkanischer Dirham (د.م.)"
+    ]
+  },
+  "mc": {
+    "id": "mc",
+    "name_en": "Monaco",
+    "name_de": "Monaco",
+    "capital": "Monaco",
+    "region": "Europa",
+    "subregion": "Westeuropa",
+    "flag_svg": "https://flagcdn.com/mc.svg",
+    "flag_png": "https://flagcdn.com/w320/mc.png",
+    "population": 38423,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "md": {
+    "id": "md",
+    "name_en": "Moldova",
+    "name_de": "Moldawien",
+    "capital": "Chișinău",
+    "region": "Europa",
+    "subregion": "Osteuropa",
+    "flag_svg": "https://flagcdn.com/md.svg",
+    "flag_png": "https://flagcdn.com/w320/md.png",
+    "population": 2749076,
+    "languages": [
+      "Rumänisch"
+    ],
+    "currencies": [
+      "Moldauischer Leu (L)"
+    ]
+  },
+  "me": {
+    "id": "me",
+    "name_en": "Montenegro",
+    "name_de": "Montenegro",
+    "capital": "Podgorica",
+    "region": "Europa",
+    "subregion": "Südosteuropa",
+    "flag_svg": "https://flagcdn.com/me.svg",
+    "flag_png": "https://flagcdn.com/w320/me.png",
+    "population": 623327,
+    "languages": [
+      "Montenegrinisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "mf": {
+    "id": "mf",
+    "name_en": "Saint Martin",
+    "name_de": "Saint-Martin",
+    "capital": "Marigot",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/mf.svg",
+    "flag_png": "https://flagcdn.com/w320/mf.png",
+    "population": 31496,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "mg": {
+    "id": "mg",
+    "name_en": "Madagascar",
+    "name_de": "Madagaskar",
+    "capital": "Antananarivo",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/mg.svg",
+    "flag_png": "https://flagcdn.com/w320/mg.png",
+    "population": 31727042,
+    "languages": [
+      "Französisch",
+      "Madagassisch"
+    ],
+    "currencies": [
+      "Madagassischer Ariary (Ar)"
+    ]
+  },
+  "mh": {
+    "id": "mh",
+    "name_en": "Marshall Islands",
+    "name_de": "Marshallinseln",
+    "capital": "Majuro",
+    "region": "Ozeanien",
+    "subregion": "Mikronesien",
+    "flag_svg": "https://flagcdn.com/mh.svg",
+    "flag_png": "https://flagcdn.com/w320/mh.png",
+    "population": 42418,
+    "languages": [
+      "Englisch",
+      "Marshallese"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "mk": {
+    "id": "mk",
+    "name_en": "North Macedonia",
+    "name_de": "Nordmazedonien",
+    "capital": "Skopje",
+    "region": "Europa",
+    "subregion": "Südosteuropa",
+    "flag_svg": "https://flagcdn.com/mk.svg",
+    "flag_png": "https://flagcdn.com/w320/mk.png",
+    "population": 1822612,
+    "languages": [
+      "Mazedonisch"
+    ],
+    "currencies": [
+      "denar (den)"
+    ]
+  },
+  "ml": {
+    "id": "ml",
+    "name_en": "Mali",
+    "name_de": "Mali",
+    "capital": "Bamako",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/ml.svg",
+    "flag_png": "https://flagcdn.com/w320/ml.png",
+    "population": 22395489,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "Westafrikanischer CFA-Franc (Fr)"
+    ]
+  },
+  "mm": {
+    "id": "mm",
+    "name_en": "Myanmar",
+    "name_de": "Myanmar",
+    "capital": "Naypyidaw",
+    "region": "Asien",
+    "subregion": "Südostasien",
+    "flag_svg": "https://flagcdn.com/mm.svg",
+    "flag_png": "https://flagcdn.com/w320/mm.png",
+    "population": 51316756,
+    "languages": [
+      "Birmanisch"
+    ],
+    "currencies": [
+      "Burmese kyat (Ks)"
+    ]
+  },
+  "mn": {
+    "id": "mn",
+    "name_en": "Mongolia",
+    "name_de": "Mongolei",
+    "capital": "Ulan Bator",
+    "region": "Asien",
+    "subregion": "Ostasien",
+    "flag_svg": "https://flagcdn.com/mn.svg",
+    "flag_png": "https://flagcdn.com/w320/mn.png",
+    "population": 3544835,
+    "languages": [
+      "Mongolisch"
+    ],
+    "currencies": [
+      "Mongolischer Tögrög (₮)"
+    ]
+  },
+  "mo": {
+    "id": "mo",
+    "name_en": "Macau",
+    "name_de": "Macao",
+    "capital": null,
+    "region": "Asien",
+    "subregion": "Ostasien",
+    "flag_svg": "https://flagcdn.com/mo.svg",
+    "flag_png": "https://flagcdn.com/w320/mo.png",
+    "population": 685900,
+    "languages": [
+      "Portugiesisch",
+      "Chinesisch"
+    ],
+    "currencies": [
+      "Macanese pataca (P)"
+    ]
+  },
+  "mp": {
+    "id": "mp",
+    "name_en": "Northern Mariana Islands",
+    "name_de": "Nördliche Marianen",
+    "capital": "Saipan",
+    "region": "Ozeanien",
+    "subregion": "Mikronesien",
+    "flag_svg": "https://flagcdn.com/mp.svg",
+    "flag_png": "https://flagcdn.com/w320/mp.png",
+    "population": 47329,
+    "languages": [
+      "Carolinian",
+      "Chamorro",
+      "Englisch"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "mq": {
+    "id": "mq",
+    "name_en": "Martinique",
+    "name_de": "Martinique",
+    "capital": "Fort-de-France",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/mq.svg",
+    "flag_png": "https://flagcdn.com/w320/mq.png",
+    "population": 349925,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "mr": {
+    "id": "mr",
+    "name_en": "Mauritania",
+    "name_de": "Mauretanien",
+    "capital": "Nouakchott",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/mr.svg",
+    "flag_png": "https://flagcdn.com/w320/mr.png",
+    "population": 4927532,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "Mauretanische Ouguiya (UM)"
+    ]
+  },
+  "ms": {
+    "id": "ms",
+    "name_en": "Montserrat",
+    "name_de": "Montserrat",
+    "capital": "Plymouth",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/ms.svg",
+    "flag_png": "https://flagcdn.com/w320/ms.png",
+    "population": 4386,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Eastern Caribbean dollar ($)"
+    ]
+  },
+  "mt": {
+    "id": "mt",
+    "name_en": "Malta",
+    "name_de": "Malta",
+    "capital": "Valletta",
+    "region": "Europa",
+    "subregion": "Südeuropa",
+    "flag_svg": "https://flagcdn.com/mt.svg",
+    "flag_png": "https://flagcdn.com/w320/mt.png",
+    "population": 574250,
+    "languages": [
+      "Englisch",
+      "Maltesisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "mu": {
+    "id": "mu",
+    "name_en": "Mauritius",
+    "name_de": "Mauritius",
+    "capital": "Port Louis",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/mu.svg",
+    "flag_png": "https://flagcdn.com/w320/mu.png",
+    "population": 1243741,
+    "languages": [
+      "Englisch",
+      "Französisch",
+      "Mauritian Creole"
+    ],
+    "currencies": [
+      "Mauritian rupee (₨)"
+    ]
+  },
+  "mv": {
+    "id": "mv",
+    "name_en": "Maldives",
+    "name_de": "Malediven",
+    "capital": "Malé",
+    "region": "Asien",
+    "subregion": "Südasien",
+    "flag_svg": "https://flagcdn.com/mv.svg",
+    "flag_png": "https://flagcdn.com/w320/mv.png",
+    "population": 515132,
+    "languages": [
+      "Maldivian"
+    ],
+    "currencies": [
+      "Maledivische Rufiyaa (.ރ)"
+    ]
+  },
+  "mw": {
+    "id": "mw",
+    "name_en": "Malawi",
+    "name_de": "Malawi",
+    "capital": "Lilongwe",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/mw.svg",
+    "flag_png": "https://flagcdn.com/w320/mw.png",
+    "population": 20734262,
+    "languages": [
+      "Englisch",
+      "Chewa"
+    ],
+    "currencies": [
+      "Malawischer Kwacha (MK)"
+    ]
+  },
+  "mx": {
+    "id": "mx",
+    "name_en": "Mexico",
+    "name_de": "Mexiko",
+    "capital": "Mexiko-Stadt",
+    "region": "Amerika",
+    "subregion": "Nordamerika",
+    "flag_svg": "https://flagcdn.com/mx.svg",
+    "flag_png": "https://flagcdn.com/w320/mx.png",
+    "population": 130575786,
+    "languages": [
+      "Spanisch"
+    ],
+    "currencies": [
+      "Mexikanischer Peso ($)"
+    ]
+  },
+  "my": {
+    "id": "my",
+    "name_en": "Malaysia",
+    "name_de": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "region": "Asien",
+    "subregion": "Südostasien",
+    "flag_svg": "https://flagcdn.com/my.svg",
+    "flag_png": "https://flagcdn.com/w320/my.png",
+    "population": 34231700,
+    "languages": [
+      "Englisch",
+      "Malaiisch"
+    ],
+    "currencies": [
+      "Malaysischer Ringgit (RM)"
+    ]
+  },
+  "mz": {
+    "id": "mz",
+    "name_en": "Mozambique",
+    "name_de": "Mosambik",
+    "capital": "Maputo",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/mz.svg",
+    "flag_png": "https://flagcdn.com/w320/mz.png",
+    "population": 34090466,
+    "languages": [
+      "Portugiesisch"
+    ],
+    "currencies": [
+      "Mosambikanischer Metical (MT)"
+    ]
+  },
+  "na": {
+    "id": "na",
+    "name_en": "Namibia",
+    "name_de": "Namibia",
+    "capital": "Windhoek",
+    "region": "Afrika",
+    "subregion": "Südafrika",
+    "flag_svg": "https://flagcdn.com/na.svg",
+    "flag_png": "https://flagcdn.com/w320/na.png",
+    "population": 3022401,
+    "languages": [
+      "Afrikaans",
+      "Deutsch",
+      "Englisch",
+      "Herero",
+      "Khoekhoe",
+      "Kwangali",
+      "Lozi",
+      "Ndonga",
+      "Tswana"
+    ],
+    "currencies": [
+      "Namibischer Dollar ($)",
+      "Südafrikanischer Rand (R)"
+    ]
+  },
+  "nc": {
+    "id": "nc",
+    "name_en": "New Caledonia",
+    "name_de": "Neukaledonien",
+    "capital": "Nouméa",
+    "region": "Ozeanien",
+    "subregion": "Melanesien",
+    "flag_svg": "https://flagcdn.com/nc.svg",
+    "flag_png": "https://flagcdn.com/w320/nc.png",
+    "population": 264596,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "CFP-Franc (₣)"
+    ]
+  },
+  "ne": {
+    "id": "ne",
+    "name_en": "Niger",
+    "name_de": "Niger",
+    "capital": "Niamey",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/ne.svg",
+    "flag_png": "https://flagcdn.com/w320/ne.png",
+    "population": 26312034,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "Westafrikanischer CFA-Franc (Fr)"
+    ]
+  },
+  "nf": {
+    "id": "nf",
+    "name_en": "Norfolk Island",
+    "name_de": "Norfolkinsel",
+    "capital": "Kingston",
+    "region": "Ozeanien",
+    "subregion": "Australien und Neuseeland",
+    "flag_svg": "https://flagcdn.com/nf.svg",
+    "flag_png": "https://flagcdn.com/w320/nf.png",
+    "population": 2188,
+    "languages": [
+      "Englisch",
+      "Norfuk"
+    ],
+    "currencies": [
+      "Australischer Dollar ($)"
+    ]
+  },
+  "ng": {
+    "id": "ng",
+    "name_en": "Nigeria",
+    "name_de": "Nigeria",
+    "capital": "Abuja",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/ng.svg",
+    "flag_png": "https://flagcdn.com/w320/ng.png",
+    "population": 223800000,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Nigerianische Naira (₦)"
+    ]
+  },
+  "ni": {
+    "id": "ni",
+    "name_en": "Nicaragua",
+    "name_de": "Nicaragua",
+    "capital": "Managua",
+    "region": "Amerika",
+    "subregion": "Mittelamerika",
+    "flag_svg": "https://flagcdn.com/ni.svg",
+    "flag_png": "https://flagcdn.com/w320/ni.png",
+    "population": 6803886,
+    "languages": [
+      "Spanisch"
+    ],
+    "currencies": [
+      "Nicaraguanischer Córdoba (C$)"
+    ]
+  },
+  "nl": {
+    "id": "nl",
+    "name_en": "Netherlands",
+    "name_de": "Niederlande",
+    "capital": "Amsterdam",
+    "region": "Europa",
+    "subregion": "Westeuropa",
+    "flag_svg": "https://flagcdn.com/nl.svg",
+    "flag_png": "https://flagcdn.com/w320/nl.png",
+    "population": 18100436,
+    "languages": [
+      "Niederländisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "no": {
+    "id": "no",
+    "name_en": "Norway",
+    "name_de": "Norwegen",
+    "capital": "Oslo",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/no.svg",
+    "flag_png": "https://flagcdn.com/w320/no.png",
+    "population": 5606944,
+    "languages": [
+      "Norwegian Nynorsk",
+      "Norwegian Bokmål",
+      "Sami"
+    ],
+    "currencies": [
+      "Norwegische Krone (kr)"
+    ]
+  },
+  "np": {
+    "id": "np",
+    "name_en": "Nepal",
+    "name_de": "Nepal",
+    "capital": "Kathmandu",
+    "region": "Asien",
+    "subregion": "Südasien",
+    "flag_svg": "https://flagcdn.com/np.svg",
+    "flag_png": "https://flagcdn.com/w320/np.png",
+    "population": 29911840,
+    "languages": [
+      "Nepalesisch"
+    ],
+    "currencies": [
+      "Nepalesische Rupie (₨)"
+    ]
+  },
+  "nr": {
+    "id": "nr",
+    "name_en": "Nauru",
+    "name_de": "Nauru",
+    "capital": "Yaren",
+    "region": "Ozeanien",
+    "subregion": "Mikronesien",
+    "flag_svg": "https://flagcdn.com/nr.svg",
+    "flag_png": "https://flagcdn.com/w320/nr.png",
+    "population": 11680,
+    "languages": [
+      "Englisch",
+      "Nauru"
+    ],
+    "currencies": [
+      "Australischer Dollar ($)"
+    ]
+  },
+  "nu": {
+    "id": "nu",
+    "name_en": "Niue",
+    "name_de": "Niue",
+    "capital": "Alofi",
+    "region": "Ozeanien",
+    "subregion": "Polynesien",
+    "flag_svg": "https://flagcdn.com/nu.svg",
+    "flag_png": "https://flagcdn.com/w320/nu.png",
+    "population": 1681,
+    "languages": [
+      "Englisch",
+      "Niuean"
+    ],
+    "currencies": [
+      "Neuseeländischer Dollar ($)"
+    ]
+  },
+  "nz": {
+    "id": "nz",
+    "name_en": "New Zealand",
+    "name_de": "Neuseeland",
+    "capital": "Wellington",
+    "region": "Ozeanien",
+    "subregion": "Australien und Neuseeland",
+    "flag_svg": "https://flagcdn.com/nz.svg",
+    "flag_png": "https://flagcdn.com/w320/nz.png",
+    "population": 5324700,
+    "languages": [
+      "Englisch",
+      "Māori",
+      "New Zealand Sign Language"
+    ],
+    "currencies": [
+      "Neuseeländischer Dollar ($)"
+    ]
+  },
+  "om": {
+    "id": "om",
+    "name_en": "Oman",
+    "name_de": "Oman",
+    "capital": "Maskat",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/om.svg",
+    "flag_png": "https://flagcdn.com/w320/om.png",
+    "population": 5343630,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "Omanischer Rial (ر.ع.)"
+    ]
+  },
+  "pa": {
+    "id": "pa",
+    "name_en": "Panama",
+    "name_de": "Panama",
+    "capital": "Panama-Stadt",
+    "region": "Amerika",
+    "subregion": "Mittelamerika",
+    "flag_svg": "https://flagcdn.com/pa.svg",
+    "flag_png": "https://flagcdn.com/w320/pa.png",
+    "population": 4064780,
+    "languages": [
+      "Spanisch"
+    ],
+    "currencies": [
+      "Panamaischer Balboa (B/.)",
+      "US-Dollar ($)"
+    ]
+  },
+  "pe": {
+    "id": "pe",
+    "name_en": "Peru",
+    "name_de": "Peru",
+    "capital": "Lima",
+    "region": "Amerika",
+    "subregion": "Südamerika",
+    "flag_svg": "https://flagcdn.com/pe.svg",
+    "flag_png": "https://flagcdn.com/w320/pe.png",
+    "population": 34350244,
+    "languages": [
+      "Aymara",
+      "Quechua",
+      "Spanisch"
+    ],
+    "currencies": [
+      "Peruanischer Sol (S/ )"
+    ]
+  },
+  "pf": {
+    "id": "pf",
+    "name_en": "French Polynesia",
+    "name_de": "Französisch-Polynesien",
+    "capital": "Papeetē",
+    "region": "Ozeanien",
+    "subregion": "Polynesien",
+    "flag_svg": "https://flagcdn.com/pf.svg",
+    "flag_png": "https://flagcdn.com/w320/pf.png",
+    "population": 279500,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "CFP-Franc (₣)"
+    ]
+  },
+  "pg": {
+    "id": "pg",
+    "name_en": "Papua New Guinea",
+    "name_de": "Papua-Neuguinea",
+    "capital": "Port Moresby",
+    "region": "Ozeanien",
+    "subregion": "Melanesien",
+    "flag_svg": "https://flagcdn.com/pg.svg",
+    "flag_png": "https://flagcdn.com/w320/pg.png",
+    "population": 11781559,
+    "languages": [
+      "Englisch",
+      "Hiri Motu",
+      "Tok Pisin"
+    ],
+    "currencies": [
+      "Papua-Neuguineanische Kina (K)"
+    ]
+  },
+  "ph": {
+    "id": "ph",
+    "name_en": "Philippines",
+    "name_de": "Philippinen",
+    "capital": "Manila",
+    "region": "Asien",
+    "subregion": "Südostasien",
+    "flag_svg": "https://flagcdn.com/ph.svg",
+    "flag_png": "https://flagcdn.com/w320/ph.png",
+    "population": 114123600,
+    "languages": [
+      "Englisch",
+      "Filipino"
+    ],
+    "currencies": [
+      "Philippinischer Peso (₱)"
+    ]
+  },
+  "pk": {
+    "id": "pk",
+    "name_en": "Pakistan",
+    "name_de": "Pakistan",
+    "capital": "Islamabad",
+    "region": "Asien",
+    "subregion": "Südasien",
+    "flag_svg": "https://flagcdn.com/pk.svg",
+    "flag_png": "https://flagcdn.com/w320/pk.png",
+    "population": 241499431,
+    "languages": [
+      "Englisch",
+      "Urdu"
+    ],
+    "currencies": [
+      "Pakistanische Rupie (₨)"
+    ]
+  },
+  "pl": {
+    "id": "pl",
+    "name_en": "Poland",
+    "name_de": "Polen",
+    "capital": "Warschau",
+    "region": "Europa",
+    "subregion": "Central Europe",
+    "flag_svg": "https://flagcdn.com/pl.svg",
+    "flag_png": "https://flagcdn.com/w320/pl.png",
+    "population": 37392000,
+    "languages": [
+      "Polnisch"
+    ],
+    "currencies": [
+      "Polnischer Zloty (zł)"
+    ]
+  },
+  "pm": {
+    "id": "pm",
+    "name_en": "Saint Pierre and Miquelon",
+    "name_de": "St. Pierre und Miquelon",
+    "capital": "Saint-Pierre",
+    "region": "Amerika",
+    "subregion": "Nordamerika",
+    "flag_svg": "https://flagcdn.com/pm.svg",
+    "flag_png": "https://flagcdn.com/w320/pm.png",
+    "population": 5819,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "pn": {
+    "id": "pn",
+    "name_en": "Pitcairn Islands",
+    "name_de": "Pitcairninseln",
+    "capital": "Adamstown",
+    "region": "Ozeanien",
+    "subregion": "Polynesien",
+    "flag_svg": "https://flagcdn.com/pn.svg",
+    "flag_png": "https://flagcdn.com/w320/pn.png",
+    "population": 35,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Neuseeländischer Dollar ($)"
+    ]
+  },
+  "pr": {
+    "id": "pr",
+    "name_en": "Puerto Rico",
+    "name_de": "Puerto Rico",
+    "capital": "San Juan",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/pr.svg",
+    "flag_png": "https://flagcdn.com/w320/pr.png",
+    "population": 3203295,
+    "languages": [
+      "Englisch",
+      "Spanisch"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "ps": {
+    "id": "ps",
+    "name_en": "Palestine",
+    "name_de": "Palästina",
+    "capital": "Ramallah",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/ps.svg",
+    "flag_png": "https://flagcdn.com/w320/ps.png",
+    "population": 5483450,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "Ägyptisches Pfund (E£)",
+      "Israelischer Neuer Schekel (₪)",
+      "Jordanischer Dinar (JD)"
+    ]
+  },
+  "pt": {
+    "id": "pt",
+    "name_en": "Portugal",
+    "name_de": "Portugal",
+    "capital": "Lissabon",
+    "region": "Europa",
+    "subregion": "Südeuropa",
+    "flag_svg": "https://flagcdn.com/pt.svg",
+    "flag_png": "https://flagcdn.com/w320/pt.png",
+    "population": 10749635,
+    "languages": [
+      "Portugiesisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "pw": {
+    "id": "pw",
+    "name_en": "Palau",
+    "name_de": "Palau",
+    "capital": "Ngerulmud",
+    "region": "Ozeanien",
+    "subregion": "Mikronesien",
+    "flag_svg": "https://flagcdn.com/pw.svg",
+    "flag_png": "https://flagcdn.com/w320/pw.png",
+    "population": 16733,
+    "languages": [
+      "Englisch",
+      "Palauan"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "py": {
+    "id": "py",
+    "name_en": "Paraguay",
+    "name_de": "Paraguay",
+    "capital": "Asunción",
+    "region": "Amerika",
+    "subregion": "Südamerika",
+    "flag_svg": "https://flagcdn.com/py.svg",
+    "flag_png": "https://flagcdn.com/w320/py.png",
+    "population": 6109644,
+    "languages": [
+      "Guaraní",
+      "Spanisch"
+    ],
+    "currencies": [
+      "Paraguayischer Guaraní (₲)"
+    ]
+  },
+  "qa": {
+    "id": "qa",
+    "name_en": "Qatar",
+    "name_de": "Katar",
+    "capital": "Doha",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/qa.svg",
+    "flag_png": "https://flagcdn.com/w320/qa.png",
+    "population": 3173024,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "Katarischer Riyal (ر.ق)"
+    ]
+  },
+  "re": {
+    "id": "re",
+    "name_en": "Réunion",
+    "name_de": "Réunion",
+    "capital": "Saint-Denis",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/re.svg",
+    "flag_png": "https://flagcdn.com/w320/re.png",
+    "population": 896175,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "ro": {
+    "id": "ro",
+    "name_en": "Romania",
+    "name_de": "Rumänien",
+    "capital": "Bukarest",
+    "region": "Europa",
+    "subregion": "Südosteuropa",
+    "flag_svg": "https://flagcdn.com/ro.svg",
+    "flag_png": "https://flagcdn.com/w320/ro.png",
+    "population": 19036031,
+    "languages": [
+      "Rumänisch"
+    ],
+    "currencies": [
+      "Rumänischer Leu (lei)"
+    ]
+  },
+  "rs": {
+    "id": "rs",
+    "name_en": "Serbia",
+    "name_de": "Serbien",
+    "capital": "Belgrad",
+    "region": "Europa",
+    "subregion": "Südosteuropa",
+    "flag_svg": "https://flagcdn.com/rs.svg",
+    "flag_png": "https://flagcdn.com/w320/rs.png",
+    "population": 6567783,
+    "languages": [
+      "Serbisch"
+    ],
+    "currencies": [
+      "Serbischer Dinar (дин.)"
+    ]
+  },
+  "ru": {
+    "id": "ru",
+    "name_en": "Russia",
+    "name_de": "Russland",
+    "capital": "Moskau",
+    "region": "Europa",
+    "subregion": "Osteuropa",
+    "flag_svg": "https://flagcdn.com/ru.svg",
+    "flag_png": "https://flagcdn.com/w320/ru.png",
+    "population": 146028325,
+    "languages": [
+      "Russisch"
+    ],
+    "currencies": [
+      "Russischer Rubel (₽)"
+    ]
+  },
+  "rw": {
+    "id": "rw",
+    "name_en": "Rwanda",
+    "name_de": "Ruanda",
+    "capital": "Kigali",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/rw.svg",
+    "flag_png": "https://flagcdn.com/w320/rw.png",
+    "population": 14104969,
+    "languages": [
+      "Englisch",
+      "Französisch",
+      "Kinyarwanda"
+    ],
+    "currencies": [
+      "Ruandischer Franc (Fr)"
+    ]
+  },
+  "sa": {
+    "id": "sa",
+    "name_en": "Saudi Arabia",
+    "name_de": "Saudi-Arabien",
+    "capital": "Riad",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/sa.svg",
+    "flag_png": "https://flagcdn.com/w320/sa.png",
+    "population": 35300280,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "Saudischer Riyal (ر.س)"
+    ]
+  },
+  "sb": {
+    "id": "sb",
+    "name_en": "Solomon Islands",
+    "name_de": "Salomonen",
+    "capital": "Honiara",
+    "region": "Ozeanien",
+    "subregion": "Melanesien",
+    "flag_svg": "https://flagcdn.com/sb.svg",
+    "flag_png": "https://flagcdn.com/w320/sb.png",
+    "population": 750325,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Salomonischer Dollar ($)"
+    ]
+  },
+  "sc": {
+    "id": "sc",
+    "name_en": "Seychelles",
+    "name_de": "Seychellen",
+    "capital": "Victoria",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/sc.svg",
+    "flag_png": "https://flagcdn.com/w320/sc.png",
+    "population": 122729,
+    "languages": [
+      "Seychellois Creole",
+      "Englisch",
+      "Französisch"
+    ],
+    "currencies": [
+      "Seychellische Rupie (₨)"
+    ]
+  },
+  "sd": {
+    "id": "sd",
+    "name_en": "Sudan",
+    "name_de": "Sudan",
+    "capital": "Khartum",
+    "region": "Afrika",
+    "subregion": "Nordafrika",
+    "flag_svg": "https://flagcdn.com/sd.svg",
+    "flag_png": "https://flagcdn.com/w320/sd.png",
+    "population": 51662000,
+    "languages": [
+      "Arabisch",
+      "Englisch"
+    ],
+    "currencies": [
+      "Sudanesisches Pfund (ج.س)"
+    ]
+  },
+  "se": {
+    "id": "se",
+    "name_en": "Sweden",
+    "name_de": "Schweden",
+    "capital": "Stockholm",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/se.svg",
+    "flag_png": "https://flagcdn.com/w320/se.png",
+    "population": 10605098,
+    "languages": [
+      "Schwedisch"
+    ],
+    "currencies": [
+      "Schwedische Krone (kr)"
+    ]
+  },
+  "sg": {
+    "id": "sg",
+    "name_en": "Singapore",
+    "name_de": "Singapur",
+    "capital": "Singapur",
+    "region": "Asien",
+    "subregion": "Südostasien",
+    "flag_svg": "https://flagcdn.com/sg.svg",
+    "flag_png": "https://flagcdn.com/w320/sg.png",
+    "population": 6110200,
+    "languages": [
+      "Englisch",
+      "Chinesisch",
+      "Malaiisch",
+      "Tamilisch"
+    ],
+    "currencies": [
+      "Singapur-Dollar ($)"
+    ]
+  },
+  "sh": {
+    "id": "sh",
+    "name_en": "Saint Helena, Ascension and Tristan da Cunha",
+    "name_de": "St. Helena, Ascension und Tristan da Cunha",
+    "capital": "Jamestown",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/sh.svg",
+    "flag_png": "https://flagcdn.com/w320/sh.png",
+    "population": 5651,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Britisches Pfund (£)",
+      "Saint Helena pound (£)"
+    ]
+  },
+  "si": {
+    "id": "si",
+    "name_en": "Slovenia",
+    "name_de": "Slowenien",
+    "capital": "Ljubljana",
+    "region": "Europa",
+    "subregion": "Central Europe",
+    "flag_svg": "https://flagcdn.com/si.svg",
+    "flag_png": "https://flagcdn.com/w320/si.png",
+    "population": 2130638,
+    "languages": [
+      "Slowenisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "sj": {
+    "id": "sj",
+    "name_en": "Svalbard and Jan Mayen",
+    "name_de": "Spitzbergen und Jan Mayen",
+    "capital": "Longyearbyen",
+    "region": "Europa",
+    "subregion": "Nordeuropa",
+    "flag_svg": "https://flagcdn.com/sj.svg",
+    "flag_png": "https://flagcdn.com/w320/sj.png",
+    "population": 2530,
+    "languages": [
+      "Norwegisch"
+    ],
+    "currencies": [
+      "krone (kr)"
+    ]
+  },
+  "sk": {
+    "id": "sk",
+    "name_en": "Slovakia",
+    "name_de": "Slowakei",
+    "capital": "Bratislava",
+    "region": "Europa",
+    "subregion": "Central Europe",
+    "flag_svg": "https://flagcdn.com/sk.svg",
+    "flag_png": "https://flagcdn.com/w320/sk.png",
+    "population": 5413813,
+    "languages": [
+      "Slowakisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "sl": {
+    "id": "sl",
+    "name_en": "Sierra Leone",
+    "name_de": "Sierra Leone",
+    "capital": "Freetown",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/sl.svg",
+    "flag_png": "https://flagcdn.com/w320/sl.png",
+    "population": 9077691,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Leone (Le)"
+    ]
+  },
+  "sm": {
+    "id": "sm",
+    "name_en": "San Marino",
+    "name_de": "San Marino",
+    "capital": "City of San Marino",
+    "region": "Europa",
+    "subregion": "Südeuropa",
+    "flag_svg": "https://flagcdn.com/sm.svg",
+    "flag_png": "https://flagcdn.com/w320/sm.png",
+    "population": 34132,
+    "languages": [
+      "Italienisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "sn": {
+    "id": "sn",
+    "name_en": "Senegal",
+    "name_de": "Senegal",
+    "capital": "Dakar",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/sn.svg",
+    "flag_png": "https://flagcdn.com/w320/sn.png",
+    "population": 18593258,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "Westafrikanischer CFA-Franc (Fr)"
+    ]
+  },
+  "so": {
+    "id": "so",
+    "name_en": "Somalia",
+    "name_de": "Somalia",
+    "capital": "Mogadischu",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/so.svg",
+    "flag_png": "https://flagcdn.com/w320/so.png",
+    "population": 19655000,
+    "languages": [
+      "Arabisch",
+      "Somali"
+    ],
+    "currencies": [
+      "Somalischer Schilling (Sh)"
+    ]
+  },
+  "sr": {
+    "id": "sr",
+    "name_en": "Suriname",
+    "name_de": "Suriname",
+    "capital": "Paramaribo",
+    "region": "Amerika",
+    "subregion": "Südamerika",
+    "flag_svg": "https://flagcdn.com/sr.svg",
+    "flag_png": "https://flagcdn.com/w320/sr.png",
+    "population": 616500,
+    "languages": [
+      "Niederländisch"
+    ],
+    "currencies": [
+      "Surinamese dollar ($)"
+    ]
+  },
+  "ss": {
+    "id": "ss",
+    "name_en": "South Sudan",
+    "name_de": "Südsudan",
+    "capital": "Juba",
+    "region": "Afrika",
+    "subregion": "Zentralafrika",
+    "flag_svg": "https://flagcdn.com/ss.svg",
+    "flag_png": "https://flagcdn.com/w320/ss.png",
+    "population": 15786898,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "South Sudanese pound (£)"
+    ]
+  },
+  "st": {
+    "id": "st",
+    "name_en": "São Tomé and Príncipe",
+    "name_de": "São Tomé und Príncipe",
+    "capital": "São Tomé",
+    "region": "Afrika",
+    "subregion": "Zentralafrika",
+    "flag_svg": "https://flagcdn.com/st.svg",
+    "flag_png": "https://flagcdn.com/w320/st.png",
+    "population": 209607,
+    "languages": [
+      "Portugiesisch"
+    ],
+    "currencies": [
+      "São-toméischer Dobra (Db)"
+    ]
+  },
+  "sv": {
+    "id": "sv",
+    "name_en": "El Salvador",
+    "name_de": "El Salvador",
+    "capital": "San Salvador",
+    "region": "Amerika",
+    "subregion": "Mittelamerika",
+    "flag_svg": "https://flagcdn.com/sv.svg",
+    "flag_png": "https://flagcdn.com/w320/sv.png",
+    "population": 6029976,
+    "languages": [
+      "Spanisch"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "sx": {
+    "id": "sx",
+    "name_en": "Sint Maarten",
+    "name_de": "Sint Maarten",
+    "capital": "Philipsburg",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/sx.svg",
+    "flag_png": "https://flagcdn.com/w320/sx.png",
+    "population": 41349,
+    "languages": [
+      "Englisch",
+      "Französisch",
+      "Niederländisch"
+    ],
+    "currencies": [
+      "Netherlands Antillean guilder (ƒ)"
+    ]
+  },
+  "sy": {
+    "id": "sy",
+    "name_en": "Syria",
+    "name_de": "Syrien",
+    "capital": "Damaskus",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/sy.svg",
+    "flag_png": "https://flagcdn.com/w320/sy.png",
+    "population": 25620000,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "Syrisches Pfund (£)"
+    ]
+  },
+  "sz": {
+    "id": "sz",
+    "name_en": "Eswatini",
+    "name_de": "Swasiland",
+    "capital": "Mbabane",
+    "region": "Afrika",
+    "subregion": "Südafrika",
+    "flag_svg": "https://flagcdn.com/sz.svg",
+    "flag_png": "https://flagcdn.com/w320/sz.png",
+    "population": 1235549,
+    "languages": [
+      "Englisch",
+      "Swazi"
+    ],
+    "currencies": [
+      "Swasiländischer Lilangeni (L)",
+      "Südafrikanischer Rand (R)"
+    ]
+  },
+  "tc": {
+    "id": "tc",
+    "name_en": "Turks and Caicos Islands",
+    "name_de": "Turks-und Caicosinseln",
+    "capital": "Cockburn Town",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/tc.svg",
+    "flag_png": "https://flagcdn.com/w320/tc.png",
+    "population": 50828,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "td": {
+    "id": "td",
+    "name_en": "Chad",
+    "name_de": "Tschad",
+    "capital": "N'Djamena",
+    "region": "Afrika",
+    "subregion": "Zentralafrika",
+    "flag_svg": "https://flagcdn.com/td.svg",
+    "flag_png": "https://flagcdn.com/w320/td.png",
+    "population": 19340757,
+    "languages": [
+      "Arabisch",
+      "Französisch"
+    ],
+    "currencies": [
+      "Zentralafrikanischer CFA-Franc (Fr)"
+    ]
+  },
+  "tf": {
+    "id": "tf",
+    "name_en": "French Southern and Antarctic Lands",
+    "name_de": "Französische Süd- und Antarktisgebiete",
+    "capital": "Port-aux-Français",
+    "region": "Antarktis",
+    "subregion": null,
+    "flag_svg": "https://flagcdn.com/tf.svg",
+    "flag_png": "https://flagcdn.com/w320/tf.png",
+    "population": 400,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "tg": {
+    "id": "tg",
+    "name_en": "Togo",
+    "name_de": "Togo",
+    "capital": "Lomé",
+    "region": "Afrika",
+    "subregion": "Westafrika",
+    "flag_svg": "https://flagcdn.com/tg.svg",
+    "flag_png": "https://flagcdn.com/w320/tg.png",
+    "population": 8095498,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "Westafrikanischer CFA-Franc (Fr)"
+    ]
+  },
+  "th": {
+    "id": "th",
+    "name_en": "Thailand",
+    "name_de": "Thailand",
+    "capital": "Bangkok",
+    "region": "Asien",
+    "subregion": "Südostasien",
+    "flag_svg": "https://flagcdn.com/th.svg",
+    "flag_png": "https://flagcdn.com/w320/th.png",
+    "population": 65859640,
+    "languages": [
+      "Thailändisch"
+    ],
+    "currencies": [
+      "Thailändischer Baht (฿)"
+    ]
+  },
+  "tj": {
+    "id": "tj",
+    "name_en": "Tajikistan",
+    "name_de": "Tadschikistan",
+    "capital": "Duschanbe",
+    "region": "Asien",
+    "subregion": "Zentralasien",
+    "flag_svg": "https://flagcdn.com/tj.svg",
+    "flag_png": "https://flagcdn.com/w320/tj.png",
+    "population": 10499000,
+    "languages": [
+      "Russisch",
+      "Tadschikisch"
+    ],
+    "currencies": [
+      "Tadschikischer Somoni (ЅМ)"
+    ]
+  },
+  "tk": {
+    "id": "tk",
+    "name_en": "Tokelau",
+    "name_de": "Tokelau",
+    "capital": "Fakaofo",
+    "region": "Ozeanien",
+    "subregion": "Polynesien",
+    "flag_svg": "https://flagcdn.com/tk.svg",
+    "flag_png": "https://flagcdn.com/w320/tk.png",
+    "population": 2608,
+    "languages": [
+      "Englisch",
+      "Samoanisch",
+      "Tokelauan"
+    ],
+    "currencies": [
+      "Neuseeländischer Dollar ($)"
+    ]
+  },
+  "tl": {
+    "id": "tl",
+    "name_en": "Timor-Leste",
+    "name_de": "Osttimor",
+    "capital": "Dili",
+    "region": "Asien",
+    "subregion": "Südostasien",
+    "flag_svg": "https://flagcdn.com/tl.svg",
+    "flag_png": "https://flagcdn.com/w320/tl.png",
+    "population": 1391221,
+    "languages": [
+      "Portugiesisch",
+      "Tetum"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "tm": {
+    "id": "tm",
+    "name_en": "Turkmenistan",
+    "name_de": "Turkmenistan",
+    "capital": "Aschgabat",
+    "region": "Asien",
+    "subregion": "Zentralasien",
+    "flag_svg": "https://flagcdn.com/tm.svg",
+    "flag_png": "https://flagcdn.com/w320/tm.png",
+    "population": 7057841,
+    "languages": [
+      "Russisch",
+      "Turkmenisch"
+    ],
+    "currencies": [
+      "Turkmenischer Manat (m)"
+    ]
+  },
+  "tn": {
+    "id": "tn",
+    "name_en": "Tunisia",
+    "name_de": "Tunesien",
+    "capital": "Tunis",
+    "region": "Afrika",
+    "subregion": "Nordafrika",
+    "flag_svg": "https://flagcdn.com/tn.svg",
+    "flag_png": "https://flagcdn.com/w320/tn.png",
+    "population": 11972169,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "Tunesischer Dinar (د.ت)"
+    ]
+  },
+  "to": {
+    "id": "to",
+    "name_en": "Tonga",
+    "name_de": "Tonga",
+    "capital": "Nuku'alofa",
+    "region": "Ozeanien",
+    "subregion": "Polynesien",
+    "flag_svg": "https://flagcdn.com/to.svg",
+    "flag_png": "https://flagcdn.com/w320/to.png",
+    "population": 100179,
+    "languages": [
+      "Englisch",
+      "Tongaisch"
+    ],
+    "currencies": [
+      "Tongaischer Paʻanga (T$)"
+    ]
+  },
+  "tr": {
+    "id": "tr",
+    "name_en": "Turkey",
+    "name_de": "Türkei",
+    "capital": "Ankara",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/tr.svg",
+    "flag_png": "https://flagcdn.com/w320/tr.png",
+    "population": 85664944,
+    "languages": [
+      "Türkisch"
+    ],
+    "currencies": [
+      "Türkische Lira (₺)"
+    ]
+  },
+  "tt": {
+    "id": "tt",
+    "name_en": "Trinidad and Tobago",
+    "name_de": "Trinidad und Tobago",
+    "capital": "Port of Spain",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/tt.svg",
+    "flag_png": "https://flagcdn.com/w320/tt.png",
+    "population": 1367764,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Trinidad-und-Tobago-Dollar ($)"
+    ]
+  },
+  "tv": {
+    "id": "tv",
+    "name_en": "Tuvalu",
+    "name_de": "Tuvalu",
+    "capital": "Funafuti",
+    "region": "Ozeanien",
+    "subregion": "Polynesien",
+    "flag_svg": "https://flagcdn.com/tv.svg",
+    "flag_png": "https://flagcdn.com/w320/tv.png",
+    "population": 10643,
+    "languages": [
+      "Englisch",
+      "Tuvaluan"
+    ],
+    "currencies": [
+      "Australischer Dollar ($)",
+      "Tuvaluan dollar ($)"
+    ]
+  },
+  "tw": {
+    "id": "tw",
+    "name_en": "Taiwan",
+    "name_de": "Taiwan",
+    "capital": "Taipeh",
+    "region": "Asien",
+    "subregion": "Ostasien",
+    "flag_svg": "https://flagcdn.com/tw.svg",
+    "flag_png": "https://flagcdn.com/w320/tw.png",
+    "population": 23317031,
+    "languages": [
+      "Chinesisch"
+    ],
+    "currencies": [
+      "Neuer Taiwanesischer Dollar ($)"
+    ]
+  },
+  "tz": {
+    "id": "tz",
+    "name_en": "Tanzania",
+    "name_de": "Tansania",
+    "capital": "Dodoma",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/tz.svg",
+    "flag_png": "https://flagcdn.com/w320/tz.png",
+    "population": 68153004,
+    "languages": [
+      "Englisch",
+      "Suaheli"
+    ],
+    "currencies": [
+      "Tansanischer Schilling (Sh)"
+    ]
+  },
+  "ua": {
+    "id": "ua",
+    "name_en": "Ukraine",
+    "name_de": "Ukraine",
+    "capital": "Kiew",
+    "region": "Europa",
+    "subregion": "Osteuropa",
+    "flag_svg": "https://flagcdn.com/ua.svg",
+    "flag_png": "https://flagcdn.com/w320/ua.png",
+    "population": 32862000,
+    "languages": [
+      "Ukrainisch"
+    ],
+    "currencies": [
+      "Ukrainische Hrywnja (₴)"
+    ]
+  },
+  "ug": {
+    "id": "ug",
+    "name_en": "Uganda",
+    "name_de": "Uganda",
+    "capital": "Kampala",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/ug.svg",
+    "flag_png": "https://flagcdn.com/w320/ug.png",
+    "population": 45905417,
+    "languages": [
+      "Englisch",
+      "Suaheli"
+    ],
+    "currencies": [
+      "Ugandischer Schilling (Sh)"
+    ]
+  },
+  "um": {
+    "id": "um",
+    "name_en": "United States Minor Outlying Islands",
+    "name_de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
+    "capital": "Washington DC",
+    "region": "Amerika",
+    "subregion": "Nordamerika",
+    "flag_svg": "https://flagcdn.com/um.svg",
+    "flag_png": "https://flagcdn.com/w320/um.png",
+    "population": 0,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "us": {
+    "id": "us",
+    "name_en": "United States",
+    "name_de": "Vereinigte Staaten",
+    "capital": "Washington, D.C.",
+    "region": "Amerika",
+    "subregion": "Nordamerika",
+    "flag_svg": "https://flagcdn.com/us.svg",
+    "flag_png": "https://flagcdn.com/w320/us.png",
+    "population": 340110988,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "uy": {
+    "id": "uy",
+    "name_en": "Uruguay",
+    "name_de": "Uruguay",
+    "capital": "Montevideo",
+    "region": "Amerika",
+    "subregion": "Südamerika",
+    "flag_svg": "https://flagcdn.com/uy.svg",
+    "flag_png": "https://flagcdn.com/w320/uy.png",
+    "population": 3499451,
+    "languages": [
+      "Spanisch"
+    ],
+    "currencies": [
+      "Uruguayischer Peso ($)"
+    ]
+  },
+  "uz": {
+    "id": "uz",
+    "name_en": "Uzbekistan",
+    "name_de": "Usbekistan",
+    "capital": "Taschkent",
+    "region": "Asien",
+    "subregion": "Zentralasien",
+    "flag_svg": "https://flagcdn.com/uz.svg",
+    "flag_png": "https://flagcdn.com/w320/uz.png",
+    "population": 37859698,
+    "languages": [
+      "Russisch",
+      "Usbekisch"
+    ],
+    "currencies": [
+      "Usbekischer Sum (so'm)"
+    ]
+  },
+  "va": {
+    "id": "va",
+    "name_en": "Vatican City",
+    "name_de": "Vatikanstadt",
+    "capital": "Vatikanstadt",
+    "region": "Europa",
+    "subregion": "Südeuropa",
+    "flag_svg": "https://flagcdn.com/va.svg",
+    "flag_png": "https://flagcdn.com/w320/va.png",
+    "population": 882,
+    "languages": [
+      "Italienisch",
+      "Latein"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "vc": {
+    "id": "vc",
+    "name_en": "Saint Vincent and the Grenadines",
+    "name_de": "St. Vincent und die Grenadinen",
+    "capital": "Kingstown",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/vc.svg",
+    "flag_png": "https://flagcdn.com/w320/vc.png",
+    "population": 110872,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Eastern Caribbean dollar ($)"
+    ]
+  },
+  "ve": {
+    "id": "ve",
+    "name_en": "Venezuela",
+    "name_de": "Venezuela",
+    "capital": "Caracas",
+    "region": "Amerika",
+    "subregion": "Südamerika",
+    "flag_svg": "https://flagcdn.com/ve.svg",
+    "flag_png": "https://flagcdn.com/w320/ve.png",
+    "population": 28517000,
+    "languages": [
+      "Spanisch"
+    ],
+    "currencies": [
+      "Venezolanischer Bolívar (Bs.S.)"
+    ]
+  },
+  "vg": {
+    "id": "vg",
+    "name_en": "British Virgin Islands",
+    "name_de": "Britische Jungferninseln",
+    "capital": "Road Town",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/vg.svg",
+    "flag_png": "https://flagcdn.com/w320/vg.png",
+    "population": 39471,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "vi": {
+    "id": "vi",
+    "name_en": "United States Virgin Islands",
+    "name_de": "Amerikanische Jungferninseln",
+    "capital": "Charlotte Amalie",
+    "region": "Amerika",
+    "subregion": "Karibik",
+    "flag_svg": "https://flagcdn.com/vi.svg",
+    "flag_png": "https://flagcdn.com/w320/vi.png",
+    "population": 87146,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "US-Dollar ($)"
+    ]
+  },
+  "vn": {
+    "id": "vn",
+    "name_en": "Vietnam",
+    "name_de": "Vietnam",
+    "capital": "Hanoi",
+    "region": "Asien",
+    "subregion": "Südostasien",
+    "flag_svg": "https://flagcdn.com/vn.svg",
+    "flag_png": "https://flagcdn.com/w320/vn.png",
+    "population": 101343800,
+    "languages": [
+      "Vietnamesisch"
+    ],
+    "currencies": [
+      "Vietnamesischer Dong (₫)"
+    ]
+  },
+  "vu": {
+    "id": "vu",
+    "name_en": "Vanuatu",
+    "name_de": "Vanuatu",
+    "capital": "Port Vila",
+    "region": "Ozeanien",
+    "subregion": "Melanesien",
+    "flag_svg": "https://flagcdn.com/vu.svg",
+    "flag_png": "https://flagcdn.com/w320/vu.png",
+    "population": 321409,
+    "languages": [
+      "Bislama",
+      "Englisch",
+      "Französisch"
+    ],
+    "currencies": [
+      "Vanuatischer Vatu (Vt)"
+    ]
+  },
+  "wf": {
+    "id": "wf",
+    "name_en": "Wallis and Futuna",
+    "name_de": "Wallis und Futuna",
+    "capital": "Mata-Utu",
+    "region": "Ozeanien",
+    "subregion": "Polynesien",
+    "flag_svg": "https://flagcdn.com/wf.svg",
+    "flag_png": "https://flagcdn.com/w320/wf.png",
+    "population": 11620,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "CFP-Franc (₣)"
+    ]
+  },
+  "ws": {
+    "id": "ws",
+    "name_en": "Samoa",
+    "name_de": "Samoa",
+    "capital": "Apia",
+    "region": "Ozeanien",
+    "subregion": "Polynesien",
+    "flag_svg": "https://flagcdn.com/ws.svg",
+    "flag_png": "https://flagcdn.com/w320/ws.png",
+    "population": 205557,
+    "languages": [
+      "Englisch",
+      "Samoanisch"
+    ],
+    "currencies": [
+      "Samoanischer Tālā (T)"
+    ]
+  },
+  "xk": {
+    "id": "xk",
+    "name_en": "Kosovo",
+    "name_de": "Kosovo",
+    "capital": "Pristina",
+    "region": "Europa",
+    "subregion": "Südosteuropa",
+    "flag_svg": "https://flagcdn.com/xk.svg",
+    "flag_png": "https://flagcdn.com/w320/xk.png",
+    "population": 1585566,
+    "languages": [
+      "Albanisch",
+      "Serbisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "ye": {
+    "id": "ye",
+    "name_en": "Yemen",
+    "name_de": "Jemen",
+    "capital": "Sana'a",
+    "region": "Asien",
+    "subregion": "Westasien",
+    "flag_svg": "https://flagcdn.com/ye.svg",
+    "flag_png": "https://flagcdn.com/w320/ye.png",
+    "population": 32684503,
+    "languages": [
+      "Arabisch"
+    ],
+    "currencies": [
+      "Yemeni rial (﷼)"
+    ]
+  },
+  "yt": {
+    "id": "yt",
+    "name_en": "Mayotte",
+    "name_de": "Mayotte",
+    "capital": "Mamoudzou",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/yt.svg",
+    "flag_png": "https://flagcdn.com/w320/yt.png",
+    "population": 320901,
+    "languages": [
+      "Französisch"
+    ],
+    "currencies": [
+      "euro (€)"
+    ]
+  },
+  "za": {
+    "id": "za",
+    "name_en": "South Africa",
+    "name_de": "Südafrika",
+    "capital": "Pretoria",
+    "region": "Afrika",
+    "subregion": "Südafrika",
+    "flag_svg": "https://flagcdn.com/za.svg",
+    "flag_png": "https://flagcdn.com/w320/za.png",
+    "population": 63100945,
+    "languages": [
+      "Afrikaans",
+      "Englisch",
+      "Southern Ndebele",
+      "Northern Sotho",
+      "Southern Sotho",
+      "Swazi",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zulu"
+    ],
+    "currencies": [
+      "Südafrikanischer Rand (R)"
+    ]
+  },
+  "zm": {
+    "id": "zm",
+    "name_en": "Zambia",
+    "name_de": "Sambia",
+    "capital": "Lusaka",
+    "region": "Afrika",
+    "subregion": "Ostafrika",
+    "flag_svg": "https://flagcdn.com/zm.svg",
+    "flag_png": "https://flagcdn.com/w320/zm.png",
+    "population": 19693423,
+    "languages": [
+      "Englisch"
+    ],
+    "currencies": [
+      "Sambischer Kwacha (ZK)"
+    ]
+  },
+  "zw": {
+    "id": "zw",
+    "name_en": "Zimbabwe",
+    "name_de": "Simbabwe",
+    "capital": "Harare",
+    "region": "Afrika",
+    "subregion": "Südafrika",
+    "flag_svg": "https://flagcdn.com/zw.svg",
+    "flag_png": "https://flagcdn.com/w320/zw.png",
+    "population": 17073087,
+    "languages": [
+      "Chibarwe",
+      "Englisch",
+      "Kalanga",
+      "Khoisan",
+      "Ndau",
+      "Northern Ndebele",
+      "Chewa",
+      "Shona",
+      "Sotho",
+      "Tonga",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zimbabwean Sign Language"
+    ],
+    "currencies": [
+      "Simbabwischer Dollar ($)"
+    ]
+  }
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "nil", "rank": 1, "name_de": "Nil", "name_en": "Nile",
+    "length_km": 6650, "catchment_km2": 3254555, "discharge_m3s": 2830,
+    "continent": "Afrika",
+    "countries": ["Ägypten", "Sudan", "Südsudan", "Äthiopien", "Uganda", "Kenia", "Tansania", "Ruanda", "Burundi", "DR Kongo", "Eritrea"],
+    "outflow": "Mittelmeer",
+    "source_region": "Ruanda (Kagera-Quellfluss)"
+  },
+  {
+    "id": "amazonas", "rank": 2, "name_de": "Amazonas", "name_en": "Amazon",
+    "length_km": 6448, "catchment_km2": 7050000, "discharge_m3s": 209000,
+    "continent": "Südamerika",
+    "countries": ["Brasilien", "Peru", "Kolumbien", "Ecuador", "Venezuela", "Bolivien", "Guyana"],
+    "outflow": "Atlantischer Ozean",
+    "source_region": "Anden, Peru (Ucayali-Apurímac)"
+  },
+  {
+    "id": "jangtsekiang", "rank": 3, "name_de": "Jangtsekiang", "name_en": "Yangtze",
+    "length_km": 6380, "catchment_km2": 1800000, "discharge_m3s": 30166,
+    "continent": "Asien",
+    "countries": ["China"],
+    "outflow": "Ostchinesisches Meer",
+    "source_region": "Tibetisches Hochland (Tanggula-Gebirge)"
+  },
+  {
+    "id": "mississippi-missouri", "rank": 4, "name_de": "Mississippi-Missouri", "name_en": "Mississippi-Missouri",
+    "length_km": 6051, "catchment_km2": 3220000, "discharge_m3s": 16800,
+    "continent": "Nordamerika",
+    "countries": ["USA", "Kanada"],
+    "outflow": "Golf von Mexiko",
+    "source_region": "Rocky Mountains, Montana (Missouri)"
+  },
+  {
+    "id": "jenissei-angara", "rank": 5, "name_de": "Jenissei-Angara", "name_en": "Yenisei-Angara",
+    "length_km": 5550, "catchment_km2": 2580000, "discharge_m3s": 19600,
+    "continent": "Asien",
+    "countries": ["Russland", "Mongolei"],
+    "outflow": "Karasee (Arktischer Ozean)",
+    "source_region": "Mongolei (Ider)"
+  },
+  {
+    "id": "gelber-fluss", "rank": 6, "name_de": "Gelber Fluss", "name_en": "Yellow River (Huang He)",
+    "length_km": 5464, "catchment_km2": 752000, "discharge_m3s": 1365,
+    "continent": "Asien",
+    "countries": ["China"],
+    "outflow": "Gelbes Meer",
+    "source_region": "Bayan Har-Gebirge, Tibet"
+  },
+  {
+    "id": "ob-irtysch", "rank": 7, "name_de": "Ob-Irtysch", "name_en": "Ob-Irtysh",
+    "length_km": 5410, "catchment_km2": 2990000, "discharge_m3s": 12600,
+    "continent": "Asien",
+    "countries": ["Russland", "Kasachstan", "China", "Mongolei"],
+    "outflow": "Obbusen (Karasee, Arktischer Ozean)",
+    "source_region": "Mongolischer Altai"
+  },
+  {
+    "id": "mekong", "rank": 8, "name_de": "Mekong", "name_en": "Mekong",
+    "length_km": 4909, "catchment_km2": 795000, "discharge_m3s": 16000,
+    "continent": "Asien",
+    "countries": ["China", "Myanmar", "Laos", "Thailand", "Kambodscha", "Vietnam"],
+    "outflow": "Südchinesisches Meer",
+    "source_region": "Tibetisches Hochland"
+  },
+  {
+    "id": "amur-argun", "rank": 9, "name_de": "Amur-Argun", "name_en": "Amur-Argun",
+    "length_km": 4444, "catchment_km2": 1929981, "discharge_m3s": 11400,
+    "continent": "Asien",
+    "countries": ["Russland", "China", "Mongolei"],
+    "outflow": "Ochotskisches Meer",
+    "source_region": "Mongolei (Cherlen/Onon)"
+  },
+  {
+    "id": "lena", "rank": 10, "name_de": "Lena", "name_en": "Lena",
+    "length_km": 4400, "catchment_km2": 2490000, "discharge_m3s": 17175,
+    "continent": "Asien",
+    "countries": ["Russland"],
+    "outflow": "Laptewsee (Arktischer Ozean)",
+    "source_region": "Baikal-Gebirge, Sibirien"
+  },
+  {
+    "id": "kongo", "rank": 11, "name_de": "Kongo", "name_en": "Congo",
+    "length_km": 4371, "catchment_km2": 3680000, "discharge_m3s": 41000,
+    "continent": "Afrika",
+    "countries": ["DR Kongo", "Kongo", "Zentralafrikanische Republik", "Sambia", "Angola", "Kamerun", "Tansania", "Burundi", "Ruanda"],
+    "outflow": "Atlantischer Ozean",
+    "source_region": "Sambia/Katanga-Hochland"
+  },
+  {
+    "id": "niger", "rank": 12, "name_de": "Niger", "name_en": "Niger",
+    "length_km": 4184, "catchment_km2": 2090000, "discharge_m3s": 9570,
+    "continent": "Afrika",
+    "countries": ["Guinea", "Mali", "Niger", "Benin", "Nigeria"],
+    "outflow": "Golf von Guinea (Atlantischer Ozean)",
+    "source_region": "Futa-Djalon-Gebirge, Guinea"
+  },
+  {
+    "id": "mackenzie", "rank": 13, "name_de": "Mackenzie", "name_en": "Mackenzie",
+    "length_km": 4241, "catchment_km2": 1805000, "discharge_m3s": 9910,
+    "continent": "Nordamerika",
+    "countries": ["Kanada"],
+    "outflow": "Beaufortsee (Arktischer Ozean)",
+    "source_region": "Rocky Mountains, British Columbia"
+  },
+  {
+    "id": "brahmaputra", "rank": 14, "name_de": "Brahmaputra (Yarlung Tsangpo)", "name_en": "Brahmaputra",
+    "length_km": 3969, "catchment_km2": 712035, "discharge_m3s": 19800,
+    "continent": "Asien",
+    "countries": ["China", "Indien", "Bangladesch"],
+    "outflow": "Golf von Bengalen (Indischer Ozean)",
+    "source_region": "Himalaya, Tibet (Yarlung Tsangpo)"
+  },
+  {
+    "id": "euphrat", "rank": 15, "name_de": "Euphrat-Murat", "name_en": "Euphrates",
+    "length_km": 3596, "catchment_km2": 765831, "discharge_m3s": 856,
+    "continent": "Asien",
+    "countries": ["Türkei", "Syrien", "Irak"],
+    "outflow": "Persischer Golf (Schatt al-Arab)",
+    "source_region": "Ostanatolisches Hochland, Türkei"
+  },
+  {
+    "id": "murray-darling", "rank": 16, "name_de": "Murray-Darling", "name_en": "Murray-Darling",
+    "length_km": 3672, "catchment_km2": 1061000, "discharge_m3s": 767,
+    "continent": "Australien",
+    "countries": ["Australien"],
+    "outflow": "Indischer Ozean (Alexandrina-See)",
+    "source_region": "Australische Alpen, New South Wales"
+  },
+  {
+    "id": "wolga", "rank": 17, "name_de": "Wolga", "name_en": "Volga",
+    "length_km": 3531, "catchment_km2": 1360000, "discharge_m3s": 8060,
+    "continent": "Europa",
+    "countries": ["Russland"],
+    "outflow": "Kaspisches Meer",
+    "source_region": "Waldaihöhen, Russland"
+  },
+  {
+    "id": "sambesi", "rank": 18, "name_de": "Sambesi", "name_en": "Zambezi",
+    "length_km": 3540, "catchment_km2": 1330000, "discharge_m3s": 3400,
+    "continent": "Afrika",
+    "countries": ["Sambia", "Angola", "Namibia", "Botswana", "Simbabwe", "Mosambik"],
+    "outflow": "Indischer Ozean (Mosambikkanal)",
+    "source_region": "Nordwestsambia, Mwinilunga"
+  },
+  {
+    "id": "parana", "rank": 19, "name_de": "Paraná", "name_en": "Paraná",
+    "length_km": 4880, "catchment_km2": 2582704, "discharge_m3s": 17000,
+    "continent": "Südamerika",
+    "countries": ["Brasilien", "Paraguay", "Argentinien"],
+    "outflow": "Río de la Plata (Atlantischer Ozean)",
+    "source_region": "Brasilien (Serra da Canastra)"
+  },
+  {
+    "id": "indus", "rank": 20, "name_de": "Indus", "name_en": "Indus",
+    "length_km": 3180, "catchment_km2": 1165000, "discharge_m3s": 6600,
+    "continent": "Asien",
+    "countries": ["Pakistan", "Indien", "China", "Afghanistan"],
+    "outflow": "Arabisches Meer",
+    "source_region": "Tibetisches Hochland, Kailash-Gebirge"
+  },
+  {
+    "id": "chatanga", "rank": 21, "name_de": "Chatanga", "name_en": "Khatanga",
+    "length_km": 3180, "catchment_km2": 364000, "discharge_m3s": 3080,
+    "continent": "Asien",
+    "countries": ["Russland"],
+    "outflow": "Chatangabusen (Arktischer Ozean)",
+    "source_region": "Mittelsibirisches Bergland"
+  },
+  {
+    "id": "orinoco", "rank": 22, "name_de": "Orinoco", "name_en": "Orinoco",
+    "length_km": 2101, "catchment_km2": 880000, "discharge_m3s": 30000,
+    "continent": "Südamerika",
+    "countries": ["Venezuela", "Kolumbien"],
+    "outflow": "Atlantischer Ozean",
+    "source_region": "Parima-Hochland, Venezuela"
+  },
+  {
+    "id": "donau", "rank": 23, "name_de": "Donau", "name_en": "Danube",
+    "length_km": 2860, "catchment_km2": 817000, "discharge_m3s": 6450,
+    "continent": "Europa",
+    "countries": ["Deutschland", "Österreich", "Slowakei", "Ungarn", "Kroatien", "Serbien", "Rumänien", "Bulgarien", "Moldau", "Ukraine"],
+    "outflow": "Schwarzes Meer",
+    "source_region": "Schwarzwald, Deutschland (Brigach/Breg)"
+  },
+  {
+    "id": "ganges", "rank": 24, "name_de": "Ganges", "name_en": "Ganges",
+    "length_km": 2525, "catchment_km2": 907000, "discharge_m3s": 16648,
+    "continent": "Asien",
+    "countries": ["Indien", "Bangladesch", "Nepal"],
+    "outflow": "Golf von Bengalen (Indischer Ozean)",
+    "source_region": "Himalaya, Gangotri-Gletscher, Indien"
+  },
+  {
+    "id": "kolyma", "rank": 25, "name_de": "Kolyma", "name_en": "Kolyma",
+    "length_km": 2600, "catchment_km2": 643900, "discharge_m3s": 3800,
+    "continent": "Asien",
+    "countries": ["Russland"],
+    "outflow": "Ostsibirisches Meer (Arktischer Ozean)",
+    "source_region": "Kolyma-Gebirge, Sibirien"
+  },
+  {
+    "id": "araguaia", "rank": 26, "name_de": "Araguaia", "name_en": "Araguaia",
+    "length_km": 2115, "catchment_km2": 358125, "discharge_m3s": 5510,
+    "continent": "Südamerika",
+    "countries": ["Brasilien"],
+    "outflow": "Tocantins → Atlantischer Ozean",
+    "source_region": "Serra do Caiapó, Brasilien"
+  },
+  {
+    "id": "niger-quellfluss", "rank": 27, "name_de": "Ubangi-Uele", "name_en": "Ubangi-Uele",
+    "length_km": 2300, "catchment_km2": 772000, "discharge_m3s": 4000,
+    "continent": "Afrika",
+    "countries": ["Zentralafrikanische Republik", "DR Kongo", "Uganda"],
+    "outflow": "Kongo",
+    "source_region": "Ostafrika"
+  },
+  {
+    "id": "irtisch", "rank": 28, "name_de": "Irtysch", "name_en": "Irtysh",
+    "length_km": 4248, "catchment_km2": 1643000, "discharge_m3s": 3000,
+    "continent": "Asien",
+    "countries": ["China", "Kasachstan", "Russland"],
+    "outflow": "Ob",
+    "source_region": "Mongolischer Altai"
+  },
+  {
+    "id": "orange", "rank": 29, "name_de": "Orange", "name_en": "Orange",
+    "length_km": 2200, "catchment_km2": 973000, "discharge_m3s": 365,
+    "continent": "Afrika",
+    "countries": ["Lesotho", "Südafrika", "Namibia"],
+    "outflow": "Atlantischer Ozean",
+    "source_region": "Drakensberge, Lesotho"
+  },
+  {
+    "id": "kasai", "rank": 30, "name_de": "Kasai", "name_en": "Kasai",
+    "length_km": 2153, "catchment_km2": 880200, "discharge_m3s": 10000,
+    "continent": "Afrika",
+    "countries": ["Angola", "DR Kongo"],
+    "outflow": "Kongo",
+    "source_region": "Angola (Hochland)"
+  },
+  {
+    "id": "ural", "rank": 31, "name_de": "Ural", "name_en": "Ural",
+    "length_km": 2534, "catchment_km2": 237000, "discharge_m3s": 400,
+    "continent": "Europa",
+    "countries": ["Russland", "Kasachstan"],
+    "outflow": "Kaspisches Meer",
+    "source_region": "Uralgebirge, Russland"
+  },
+  {
+    "id": "ishim", "rank": 32, "name_de": "Ischim", "name_en": "Ishim",
+    "length_km": 2450, "catchment_km2": 177000, "discharge_m3s": 56,
+    "continent": "Asien",
+    "countries": ["Kasachstan", "Russland"],
+    "outflow": "Irtysch",
+    "source_region": "Kasachisches Hochland"
+  },
+  {
+    "id": "tocantins", "rank": 33, "name_de": "Tocantins-Araguaia", "name_en": "Tocantins",
+    "length_km": 2699, "catchment_km2": 800000, "discharge_m3s": 11300,
+    "continent": "Südamerika",
+    "countries": ["Brasilien"],
+    "outflow": "Atlantischer Ozean",
+    "source_region": "Zentralbrasilien"
+  },
+  {
+    "id": "saluen", "rank": 34, "name_de": "Saluen", "name_en": "Salween",
+    "length_km": 2815, "catchment_km2": 272000, "discharge_m3s": 1494,
+    "continent": "Asien",
+    "countries": ["China", "Myanmar", "Thailand"],
+    "outflow": "Andamanensee (Indischer Ozean)",
+    "source_region": "Tibetisches Hochland"
+  },
+  {
+    "id": "senegal", "rank": 35, "name_de": "Senegal", "name_en": "Senegal",
+    "length_km": 1790, "catchment_km2": 441000, "discharge_m3s": 680,
+    "continent": "Afrika",
+    "countries": ["Guinea", "Mali", "Senegal", "Mauretanien"],
+    "outflow": "Atlantischer Ozean",
+    "source_region": "Futa-Djalon-Gebirge, Guinea"
+  },
+  {
+    "id": "kura", "rank": 36, "name_de": "Kura-Araxes", "name_en": "Kura",
+    "length_km": 1515, "catchment_km2": 188000, "discharge_m3s": 575,
+    "continent": "Asien",
+    "countries": ["Türkei", "Georgien", "Armenien", "Aserbaidschan", "Iran"],
+    "outflow": "Kaspisches Meer",
+    "source_region": "Nordtürkei"
+  },
+  {
+    "id": "columbia", "rank": 37, "name_de": "Columbia", "name_en": "Columbia",
+    "length_km": 1953, "catchment_km2": 668217, "discharge_m3s": 7500,
+    "continent": "Nordamerika",
+    "countries": ["Kanada", "USA"],
+    "outflow": "Pazifischer Ozean",
+    "source_region": "Rocky Mountains, British Columbia"
+  },
+  {
+    "id": "colorado-usa", "rank": 38, "name_de": "Colorado (USA)", "name_en": "Colorado",
+    "length_km": 2330, "catchment_km2": 629100, "discharge_m3s": 640,
+    "continent": "Nordamerika",
+    "countries": ["USA", "Mexiko"],
+    "outflow": "Golf von Kalifornien",
+    "source_region": "Rocky Mountains, Colorado"
+  },
+  {
+    "id": "dnepr", "rank": 39, "name_de": "Dnjepr", "name_en": "Dnieper",
+    "length_km": 2285, "catchment_km2": 504000, "discharge_m3s": 1670,
+    "continent": "Europa",
+    "countries": ["Russland", "Belarus", "Ukraine"],
+    "outflow": "Schwarzes Meer",
+    "source_region": "Waldaihöhen, Russland"
+  },
+  {
+    "id": "rio-grande", "rank": 40, "name_de": "Rio Grande", "name_en": "Rio Grande",
+    "length_km": 3057, "catchment_km2": 472000, "discharge_m3s": 82,
+    "continent": "Nordamerika",
+    "countries": ["USA", "Mexiko"],
+    "outflow": "Golf von Mexiko",
+    "source_region": "Rocky Mountains, Colorado"
+  },
+  {
+    "id": "irrawaddy", "rank": 41, "name_de": "Irrawaddy", "name_en": "Irrawaddy",
+    "length_km": 2170, "catchment_km2": 411000, "discharge_m3s": 13000,
+    "continent": "Asien",
+    "countries": ["Myanmar"],
+    "outflow": "Andamanensee (Indischer Ozean)",
+    "source_region": "Kachin-Staat, Myanmar"
+  },
+  {
+    "id": "don", "rank": 42, "name_de": "Don", "name_en": "Don",
+    "length_km": 1950, "catchment_km2": 422000, "discharge_m3s": 935,
+    "continent": "Europa",
+    "countries": ["Russland"],
+    "outflow": "Schwarzes Meer (Asowsches Meer)",
+    "source_region": "Tula, Russland"
+  },
+  {
+    "id": "tigris", "rank": 43, "name_de": "Tigris", "name_en": "Tigris",
+    "length_km": 1899, "catchment_km2": 375000, "discharge_m3s": 1014,
+    "continent": "Asien",
+    "countries": ["Türkei", "Syrien", "Irak"],
+    "outflow": "Persischer Golf (Schatt al-Arab)",
+    "source_region": "Ostanatolisches Hochland, Türkei"
+  },
+  {
+    "id": "pechora", "rank": 44, "name_de": "Petschora", "name_en": "Pechora",
+    "length_km": 1809, "catchment_km2": 322000, "discharge_m3s": 4100,
+    "continent": "Europa",
+    "countries": ["Russland"],
+    "outflow": "Barentssee (Arktischer Ozean)",
+    "source_region": "Nördlicher Ural, Russland"
+  },
+  {
+    "id": "rhein", "rank": 45, "name_de": "Rhein", "name_en": "Rhine",
+    "length_km": 1232, "catchment_km2": 185000, "discharge_m3s": 2300,
+    "continent": "Europa",
+    "countries": ["Schweiz", "Liechtenstein", "Österreich", "Deutschland", "Frankreich", "Niederlande"],
+    "outflow": "Nordsee",
+    "source_region": "Gotthard-Massiv, Schweiz"
+  },
+  {
+    "id": "elbe", "rank": 46, "name_de": "Elbe", "name_en": "Elbe",
+    "length_km": 1091, "catchment_km2": 148268, "discharge_m3s": 711,
+    "continent": "Europa",
+    "countries": ["Tschechien", "Deutschland"],
+    "outflow": "Nordsee",
+    "source_region": "Riesengebirge, Tschechien"
+  },
+  {
+    "id": "huang-he", "rank": 47, "name_de": "Huai", "name_en": "Huai River",
+    "length_km": 1100, "catchment_km2": 269000, "discharge_m3s": 1110,
+    "continent": "Asien",
+    "countries": ["China"],
+    "outflow": "Gelbes Meer",
+    "source_region": "Tongbai-Gebirge, Henan, China"
+  },
+  {
+    "id": "oder", "rank": 48, "name_de": "Oder", "name_en": "Oder",
+    "length_km": 854, "catchment_km2": 118861, "discharge_m3s": 570,
+    "continent": "Europa",
+    "countries": ["Tschechien", "Polen", "Deutschland"],
+    "outflow": "Ostsee (Stettiner Haff)",
+    "source_region": "Odergebirge, Tschechien"
+  },
+  {
+    "id": "weichsel", "rank": 49, "name_de": "Weichsel", "name_en": "Vistula",
+    "length_km": 1047, "catchment_km2": 194424, "discharge_m3s": 1080,
+    "continent": "Europa",
+    "countries": ["Polen", "Weißrussland", "Ukraine"],
+    "outflow": "Ostsee (Danziger Bucht)",
+    "source_region": "Beskiden, Polen"
+  },
+  {
+    "id": "loire", "rank": 50, "name_de": "Loire", "name_en": "Loire",
+    "length_km": 1012, "catchment_km2": 117000, "discharge_m3s": 902,
+    "continent": "Europa",
+    "countries": ["Frankreich"],
+    "outflow": "Atlantischer Ozean",
+    "source_region": "Massif Central, Frankreich"
+  }
+]

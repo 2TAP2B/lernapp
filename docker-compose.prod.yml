@@ -1,0 +1,27 @@
+# Produktion – zieht Images von GHCR statt lokal zu bauen.
+# Verwendung:
+#   docker compose -f docker-compose.prod.yml pull
+#   docker compose -f docker-compose.prod.yml up -d
+#
+# OWNER ersetzen mit deinem GitHub-Benutzernamen (oder Org).
+# Alternativ: GHCR_OWNER=deinname docker compose -f docker-compose.prod.yml up -d
+
+services:
+  frontend:
+    image: ghcr.io/${GHCR_OWNER}/lernapp-frontend:latest
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+  backend:
+    image: ghcr.io/${GHCR_OWNER}/lernapp-backend:latest
+    ports:
+      - "3001:3001"
+    environment:
+      - TURSO_DATABASE_URL=${TURSO_DATABASE_URL}
+      - TURSO_AUTH_TOKEN=${TURSO_AUTH_TOKEN}
+      - PORT=3001
+      - FRONTEND_URL=${FRONTEND_URL}
+    restart: unless-stopped

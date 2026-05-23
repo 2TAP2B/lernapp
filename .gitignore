@@ -1,0 +1,12 @@
+# .gitignore
+node_modules/
+dist/
+.env
+*.local
+.turso/
+drizzle/
+
+# SQLite local dev databases
+*.db
+*.db-shm
+*.db-wal
